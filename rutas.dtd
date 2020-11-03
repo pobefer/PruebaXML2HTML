@@ -1,0 +1,61 @@
+<!ELEMENT rutas (RutaTuristica+)>
+<!ELEMENT RutaTuristica (Duracion, 
+                        Descripcion, 
+                        Recomendaciones, 
+                        Localizacion,
+                        Referencias,
+                        coordenadasRuta?,
+                        Hitos)>
+<!ELEMENT Duracion (fecha, hora, tiempo*)>
+
+<!ELEMENT Recomendaciones (recomendacion+)>
+<!ELEMENT Localizacion (Ciudad, direccion, coordenadas)>
+<!ELEMENT Coordenadas (latitud, longitud, altura)>
+<!ELEMENT Referencias (referencia)>
+<!ELEMENT coordenadasRuta (coordenadas+)>
+<!ELEMENT coordenadas (altura)>
+
+<!ELEMENT Hitos (Hito+)>
+<!ELEMENT Hito (Descripcion,Localizacion,
+                 distancia-hito-anterior, 
+                 Galeria-img, 
+                 Galeria-video)>
+
+<!ELEMENT Galeria-video (video+)>
+<!ELEMENT Galeria-img (img+)>
+
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT hora (#PCDATA)>
+<!ELEMENT tiempo (#PCDATA)>
+<!ELEMENT Descripcion (#PCDATA)>
+<!ELEMENT recomendacion (#PCDATA)>
+<!ELEMENT Ciudad (#PCDATA)>
+<!ELEMENT direccion (#PCDATA)>
+<!ELEMENT latitud (#PCDATA)>
+<!ELEMENT longitud (#PCDATA)>
+<!ELEMENT altura (#PCDATA)>
+<!ELEMENT referencia (#PCDATA)>
+<!ELEMENT distancia-hito-anterior (#PCDATA)>
+<!ELEMENT img (#PCDATA)>
+<!ELEMENT video (#PCDATA)>
+
+
+<!ATTLIST distancia-hito-anterior
+            unidad CDATA #REQUIRED
+            tiempo CDATA #REQUIRED>
+
+<!ATTLIST img type CDATA #REQUIRED>
+<!ATTLIST video type CDATA #REQUIRED>
+<!ATTLIST RutaTuristica 
+            nombre CDATA #REQUIRED
+            tipo CDATA #REQUIRED
+            dificaultad CDATA #REQUIRED
+            puntuacion CDATA #REQUIRED
+            Agencia CDATA #REQUIRED>
+<!ATTLIST Hito nombre CDATA #REQUIRED>
+<!ATTLIST Localizacion pais CDATA #REQUIRED>
+<!ATTLIST fecha type-date CDATA #REQUIRED>
+<!ATTLIST hora type-hour CDATA #REQUIRED>
+<!ATTLIST tiempo unidad CDATA #REQUIRED>
+<!ATTLIST coordenadas lat CDATA #REQUIRED>
+<!ATTLIST coordenadas lon CDATA #REQUIRED>

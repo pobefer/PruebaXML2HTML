@@ -1,0 +1,4013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rutas SYSTEM "rutas.dtd">
+<rutas>
+    <RutaTuristica nombre="Ruta Asturias-CAntabria" tipo="Montanera-Costera" dificaultad="Alta" puntuacion="10" Agencia="Agencia 1">
+        <Duracion>
+            <fecha type-date="dd-mm-yy">01-01-20</fecha>
+            <hora type-hour="hh:mm">00:00</hora>
+            <tiempo unidad="hours">8</tiempo>
+        </Duracion>
+        <Descripcion>Ruta por el este de asturias y el oste de acantabria</Descripcion>
+        <Recomendaciones><recomendacion>Recomendado para moteros de montana</recomendacion></Recomendaciones>
+        <Localizacion pais="Espana">
+            <Ciudad>Oviedo</Ciudad>
+            <direccion>Calle Angel Muniz Toca, 33006 Oviedo, Asturias</direccion>
+            <coordenadas lat="43.355796" lon="-5.856588">
+                <altura>248.566</altura>
+            </coordenadas>
+        </Localizacion>
+        <Referencias><referencia>http://www.lne.com</referencia></Referencias>
+        <coordenadasRuta>
+            <coordenadas lat="43.355796" lon="-5.856588">
+                <altura>248.566</altura>
+            </coordenadas>
+            <coordenadas lat="43.356595" lon="-5.854991">
+                <altura>247.829</altura>
+            </coordenadas>
+            <coordenadas lat="43.350681" lon="-5.856829">
+                <altura>220.821</altura>
+            </coordenadas>
+            <coordenadas lat="43.340857" lon="-5.869208">
+                <altura>197.308</altura>
+            </coordenadas>
+            <coordenadas lat="43.332067" lon="-5.870556">
+                <altura>190.461</altura>
+            </coordenadas>
+            <coordenadas lat="43.327629" lon="-5.875539">
+                <altura>192.460</altura>
+            </coordenadas>
+            <coordenadas lat="43.324470" lon="-5.875148">
+                <altura>211.970</altura>
+            </coordenadas>
+            <coordenadas lat="43.321151" lon="-5.870474">
+                <altura>207.238</altura>
+            </coordenadas>
+            <coordenadas lat="43.312380" lon="-5.868421">
+                <altura>174.771</altura>
+            </coordenadas>
+            <coordenadas lat="43.309665" lon="-5.865619">
+                <altura>170.667</altura>
+            </coordenadas>
+            <coordenadas lat="43.309075" lon="-5.860578">
+                <altura>140.723</altura>
+            </coordenadas>
+            <coordenadas lat="43.299748" lon="-5.847352">
+                <altura>167.161</altura>
+            </coordenadas>
+            <coordenadas lat="43.301275" lon="-5.837899">
+                <altura>175.525</altura>
+            </coordenadas>
+            <coordenadas lat="43.297350" lon="-5.832276">
+                <altura>149.926</altura>
+            </coordenadas>
+            <coordenadas lat="43.297718" lon="-5.833945">
+                <altura>148.008</altura>
+            </coordenadas>
+            <coordenadas lat="43.301752" lon="-5.828774">
+                <altura>145.408</altura>
+            </coordenadas>
+            <coordenadas lat="43.306184" lon="-5.830067">
+                <altura>152.247</altura>
+            </coordenadas>
+            <coordenadas lat="43.308961" lon="-5.823427">
+                <altura>149.516</altura>
+            </coordenadas>
+            <coordenadas lat="43.315889" lon="-5.817409">
+                <altura>151.926</altura>
+            </coordenadas>
+            <coordenadas lat="43.324284" lon="-5.795780">
+                <altura>159.564</altura>
+            </coordenadas>
+            <coordenadas lat="43.329095" lon="-5.773953">
+                <altura>165.437</altura>
+            </coordenadas>
+            <coordenadas lat="43.332426" lon="-5.769860">
+                <altura>170.343</altura>
+            </coordenadas>
+            <coordenadas lat="43.334328" lon="-5.760774">
+                <altura>173.419</altura>
+            </coordenadas>
+            <coordenadas lat="43.331842" lon="-5.750865">
+                <altura>176.747</altura>
+            </coordenadas>
+            <coordenadas lat="43.323024" lon="-5.740024">
+                <altura>178.939</altura>
+            </coordenadas>
+            <coordenadas lat="43.322897" lon="-5.737239">
+                <altura>182.001</altura>
+            </coordenadas>
+            <coordenadas lat="43.326357" lon="-5.731874">
+                <altura>187.121</altura>
+            </coordenadas>
+            <coordenadas lat="43.318792" lon="-5.708949">
+                <altura>195.708</altura>
+            </coordenadas>
+            <coordenadas lat="43.309614" lon="-5.705049">
+                <altura>199.328</altura>
+            </coordenadas>
+            <coordenadas lat="43.303374" lon="-5.697910">
+                <altura>205.247</altura>
+            </coordenadas>
+            <coordenadas lat="43.297776" lon="-5.680952">
+                <altura>219.167</altura>
+            </coordenadas>
+            <coordenadas lat="43.291000" lon="-5.670645">
+                <altura>218.465</altura>
+            </coordenadas>
+            <coordenadas lat="43.290662" lon="-5.659471">
+                <altura>220.648</altura>
+            </coordenadas>
+            <coordenadas lat="43.286528" lon="-5.651744">
+                <altura>227.594</altura>
+            </coordenadas>
+            <coordenadas lat="43.289567" lon="-5.637046">
+                <altura>230.120</altura>
+            </coordenadas>
+            <coordenadas lat="43.287173" lon="-5.625072">
+                <altura>240.158</altura>
+            </coordenadas>
+            <coordenadas lat="43.271892" lon="-5.611448">
+                <altura>280.464</altura>
+            </coordenadas>
+            <coordenadas lat="43.272334" lon="-5.591791">
+                <altura>266.106</altura>
+            </coordenadas>
+            <coordenadas lat="43.266858" lon="-5.591069">
+                <altura>269.116</altura>
+            </coordenadas>
+            <coordenadas lat="43.264798" lon="-5.581716">
+                <altura>277.908</altura>
+            </coordenadas>
+            <coordenadas lat="43.249333" lon="-5.568174">
+                <altura>287.781</altura>
+            </coordenadas>
+            <coordenadas lat="43.245038" lon="-5.568421">
+                <altura>291.440</altura>
+            </coordenadas>
+            <coordenadas lat="43.236437" lon="-5.561442">
+                <altura>298.630</altura>
+            </coordenadas>
+            <coordenadas lat="43.235174" lon="-5.552591">
+                <altura>306.758</altura>
+            </coordenadas>
+            <coordenadas lat="43.236222" lon="-5.548924">
+                <altura>307.131</altura>
+            </coordenadas>
+            <coordenadas lat="43.232887" lon="-5.530344">
+                <altura>319.127</altura>
+            </coordenadas>
+            <coordenadas lat="43.235286" lon="-5.524285">
+                <altura>323.643</altura>
+            </coordenadas>
+            <coordenadas lat="43.233552" lon="-5.513641">
+                <altura>329.131</altura>
+            </coordenadas>
+            <coordenadas lat="43.235240" lon="-5.507080">
+                <altura>336.978</altura>
+            </coordenadas>
+            <coordenadas lat="43.231565" lon="-5.492401">
+                <altura>345.233</altura>
+            </coordenadas>
+            <coordenadas lat="43.232962" lon="-5.475709">
+                <altura>368.526</altura>
+            </coordenadas>
+            <coordenadas lat="43.226377" lon="-5.468310">
+                <altura>406.708</altura>
+            </coordenadas>
+            <coordenadas lat="43.227135" lon="-5.462281">
+                <altura>399.882</altura>
+            </coordenadas>
+            <coordenadas lat="43.221795" lon="-5.457465">
+                <altura>383.691</altura>
+            </coordenadas>
+            <coordenadas lat="43.221305" lon="-5.446985">
+                <altura>393.451</altura>
+            </coordenadas>
+            <coordenadas lat="43.226164" lon="-5.446726">
+                <altura>407.099</altura>
+            </coordenadas>
+            <coordenadas lat="43.227189" lon="-5.441571">
+                <altura>407.672</altura>
+            </coordenadas>
+            <coordenadas lat="43.223916" lon="-5.429266">
+                <altura>480.378</altura>
+            </coordenadas>
+            <coordenadas lat="43.215958" lon="-5.417575">
+                <altura>502.874</altura>
+            </coordenadas>
+            <coordenadas lat="43.208409" lon="-5.412475">
+                <altura>509.462</altura>
+            </coordenadas>
+            <coordenadas lat="43.206520" lon="-5.407576">
+                <altura>505.127</altura>
+            </coordenadas>
+            <coordenadas lat="43.207223" lon="-5.404387">
+                <altura>507.068</altura>
+            </coordenadas>
+            <coordenadas lat="43.204488" lon="-5.399045">
+                <altura>501.614</altura>
+            </coordenadas>
+            <coordenadas lat="43.204979" lon="-5.396426">
+                <altura>493.508</altura>
+            </coordenadas>
+            <coordenadas lat="43.202596" lon="-5.392378">
+                <altura>526.427</altura>
+            </coordenadas>
+            <coordenadas lat="43.202546" lon="-5.383006">
+                <altura>492.366</altura>
+            </coordenadas>
+            <coordenadas lat="43.199925" lon="-5.384177">
+                <altura>499.186</altura>
+            </coordenadas>
+            <coordenadas lat="43.190318" lon="-5.380472">
+                <altura>497.624</altura>
+            </coordenadas>
+            <coordenadas lat="43.190731" lon="-5.370725">
+                <altura>560.187</altura>
+            </coordenadas>
+            <coordenadas lat="43.181926" lon="-5.365334">
+                <altura>549.183</altura>
+            </coordenadas>
+            <coordenadas lat="43.178814" lon="-5.359017">
+                <altura>642.939</altura>
+            </coordenadas>
+            <coordenadas lat="43.181042" lon="-5.338172">
+                <altura>585.727</altura>
+            </coordenadas>
+            <coordenadas lat="43.174663" lon="-5.327350">
+                <altura>595.753</altura>
+            </coordenadas>
+            <coordenadas lat="43.175585" lon="-5.325222">
+                <altura>613.804</altura>
+            </coordenadas>
+            <coordenadas lat="43.161776" lon="-5.307561">
+                <altura>617.214</altura>
+            </coordenadas>
+            <coordenadas lat="43.161458" lon="-5.309547">
+                <altura>622.908</altura>
+            </coordenadas>
+            <coordenadas lat="43.153249" lon="-5.296332">
+                <altura>640.640</altura>
+            </coordenadas>
+            <coordenadas lat="43.153209" lon="-5.291943">
+                <altura>645.889</altura>
+            </coordenadas>
+            <coordenadas lat="43.148809" lon="-5.280822">
+                <altura>684.639</altura>
+            </coordenadas>
+            <coordenadas lat="43.148379" lon="-5.271118">
+                <altura>692.177</altura>
+            </coordenadas>
+            <coordenadas lat="43.150107" lon="-5.266438">
+                <altura>721.590</altura>
+            </coordenadas>
+            <coordenadas lat="43.145669" lon="-5.256906">
+                <altura>729.336</altura>
+            </coordenadas>
+            <coordenadas lat="43.133469" lon="-5.246366">
+                <altura>775.162</altura>
+            </coordenadas>
+            <coordenadas lat="43.120640" lon="-5.250597">
+                <altura>916.510</altura>
+            </coordenadas>
+            <coordenadas lat="43.118506" lon="-5.253508">
+                <altura>918.552</altura>
+            </coordenadas>
+            <coordenadas lat="43.115204" lon="-5.245213">
+                <altura>930.753</altura>
+            </coordenadas>
+            <coordenadas lat="43.115498" lon="-5.239608">
+                <altura>962.408</altura>
+            </coordenadas>
+            <coordenadas lat="43.109645" lon="-5.222701">
+                <altura>1065.608</altura>
+            </coordenadas>
+            <coordenadas lat="43.111110" lon="-5.218599">
+                <altura>1096.130</altura>
+            </coordenadas>
+            <coordenadas lat="43.108543" lon="-5.222545">
+                <altura>1124.859</altura>
+            </coordenadas>
+            <coordenadas lat="43.100152" lon="-5.219700">
+                <altura>1204.339</altura>
+            </coordenadas>
+            <coordenadas lat="43.106422" lon="-5.219235">
+                <altura>1245.867</altura>
+            </coordenadas>
+            <coordenadas lat="43.102440" lon="-5.218644">
+                <altura>1275.850</altura>
+            </coordenadas>
+            <coordenadas lat="43.105487" lon="-5.218022">
+                <altura>1293.896</altura>
+            </coordenadas>
+            <coordenadas lat="43.103407" lon="-5.217775">
+                <altura>1317.132</altura>
+            </coordenadas>
+            <coordenadas lat="43.104939" lon="-5.217471">
+                <altura>1316.950</altura>
+            </coordenadas>
+            <coordenadas lat="43.100708" lon="-5.216360">
+                <altura>1359.631</altura>
+            </coordenadas>
+            <coordenadas lat="43.099702" lon="-5.213632">
+                <altura>1382.261</altura>
+            </coordenadas>
+            <coordenadas lat="43.094691" lon="-5.217693">
+                <altura>1425.407</altura>
+            </coordenadas>
+            <coordenadas lat="43.087092" lon="-5.215671">
+                <altura>1468.608</altura>
+            </coordenadas>
+            <coordenadas lat="43.084670" lon="-5.217955">
+                <altura>1490.348</altura>
+            </coordenadas>
+            <coordenadas lat="43.084204" lon="-5.215680">
+                <altura>1482.557</altura>
+            </coordenadas>
+            <coordenadas lat="43.076095" lon="-5.214283">
+                <altura>1422.037</altura>
+            </coordenadas>
+            <coordenadas lat="43.072595" lon="-5.208846">
+                <altura>1382.265</altura>
+            </coordenadas>
+            <coordenadas lat="43.070546" lon="-5.199462">
+                <altura>1329.028</altura>
+            </coordenadas>
+            <coordenadas lat="43.072486" lon="-5.195936">
+                <altura>1308.374</altura>
+            </coordenadas>
+            <coordenadas lat="43.070682" lon="-5.191502">
+                <altura>1299.050</altura>
+            </coordenadas>
+            <coordenadas lat="43.069482" lon="-5.173235">
+                <altura>1266.078</altura>
+            </coordenadas>
+            <coordenadas lat="43.071761" lon="-5.166250">
+                <altura>1273.743</altura>
+            </coordenadas>
+            <coordenadas lat="43.070846" lon="-5.162888">
+                <altura>1250.964</altura>
+            </coordenadas>
+            <coordenadas lat="43.072709" lon="-5.157904">
+                <altura>1225.610</altura>
+            </coordenadas>
+            <coordenadas lat="43.072560" lon="-5.150465">
+                <altura>1221.808</altura>
+            </coordenadas>
+            <coordenadas lat="43.070144" lon="-5.146817">
+                <altura>1211.389</altura>
+            </coordenadas>
+            <coordenadas lat="43.070102" lon="-5.142393">
+                <altura>1198.468</altura>
+            </coordenadas>
+            <coordenadas lat="43.065920" lon="-5.137157">
+                <altura>1188.928</altura>
+            </coordenadas>
+            <coordenadas lat="43.060930" lon="-5.138179">
+                <altura>1186.646</altura>
+            </coordenadas>
+            <coordenadas lat="43.057374" lon="-5.133007">
+                <altura>1170.399</altura>
+            </coordenadas>
+            <coordenadas lat="43.047637" lon="-5.128321">
+                <altura>1153.965</altura>
+            </coordenadas>
+            <coordenadas lat="43.044765" lon="-5.123732">
+                <altura>1149.821</altura>
+            </coordenadas>
+            <coordenadas lat="43.044443" lon="-5.117571">
+                <altura>1148.339</altura>
+            </coordenadas>
+            <coordenadas lat="43.039038" lon="-5.103910">
+                <altura>1140.687</altura>
+            </coordenadas>
+            <coordenadas lat="43.038262" lon="-5.096197">
+                <altura>1143.242</altura>
+            </coordenadas>
+            <coordenadas lat="43.039845" lon="-5.095035">
+                <altura>1145.026</altura>
+            </coordenadas>
+            <coordenadas lat="43.037622" lon="-5.081686">
+                <altura>1138.108</altura>
+            </coordenadas>
+            <coordenadas lat="43.028537" lon="-5.071154">
+                <altura>1122.953</altura>
+            </coordenadas>
+            <coordenadas lat="43.025447" lon="-5.047335">
+                <altura>1104.582</altura>
+            </coordenadas>
+            <coordenadas lat="43.021532" lon="-5.040908">
+                <altura>1132.432</altura>
+            </coordenadas>
+            <coordenadas lat="43.022789" lon="-5.036849">
+                <altura>1110.260</altura>
+            </coordenadas>
+            <coordenadas lat="43.015742" lon="-5.031857">
+                <altura>1133.573</altura>
+            </coordenadas>
+            <coordenadas lat="43.017134" lon="-5.029401">
+                <altura>1140.079</altura>
+            </coordenadas>
+            <coordenadas lat="43.010892" lon="-5.020261">
+                <altura>1111.275</altura>
+            </coordenadas>
+            <coordenadas lat="43.006369" lon="-5.003917">
+                <altura>1084.843</altura>
+            </coordenadas>
+            <coordenadas lat="42.998077" lon="-4.998835">
+                <altura>1135.817</altura>
+            </coordenadas>
+            <coordenadas lat="42.996253" lon="-5.000480">
+                <altura>1132.587</altura>
+            </coordenadas>
+            <coordenadas lat="42.993978" lon="-4.997628">
+                <altura>1121.115</altura>
+            </coordenadas>
+            <coordenadas lat="42.995555" lon="-4.994168">
+                <altura>1126.008</altura>
+            </coordenadas>
+            <coordenadas lat="42.990613" lon="-4.995202">
+                <altura>1140.076</altura>
+            </coordenadas>
+            <coordenadas lat="42.988521" lon="-4.990732">
+                <altura>1121.825</altura>
+            </coordenadas>
+            <coordenadas lat="42.986531" lon="-4.995112">
+                <altura>1137.235</altura>
+            </coordenadas>
+            <coordenadas lat="42.980054" lon="-4.993547">
+                <altura>1160.433</altura>
+            </coordenadas>
+            <coordenadas lat="42.974842" lon="-5.012589">
+                <altura>1118.036</altura>
+            </coordenadas>
+            <coordenadas lat="42.978614" lon="-4.996797">
+                <altura>1161.042</altura>
+            </coordenadas>
+            <coordenadas lat="42.980880" lon="-4.993426">
+                <altura>1157.248</altura>
+            </coordenadas>
+            <coordenadas lat="42.984596" lon="-4.995914">
+                <altura>1146.586</altura>
+            </coordenadas>
+            <coordenadas lat="42.989112" lon="-4.991059">
+                <altura>1133.769</altura>
+            </coordenadas>
+            <coordenadas lat="42.990555" lon="-4.995083">
+                <altura>1141.804</altura>
+            </coordenadas>
+            <coordenadas lat="42.995464" lon="-4.994030">
+                <altura>1126.524</altura>
+            </coordenadas>
+            <coordenadas lat="42.994726" lon="-4.999834">
+                <altura>1129.108</altura>
+            </coordenadas>
+            <coordenadas lat="42.998379" lon="-4.999167">
+                <altura>1130.521</altura>
+            </coordenadas>
+            <coordenadas lat="43.005930" lon="-5.003628">
+                <altura>1106.530</altura>
+            </coordenadas>
+            <coordenadas lat="43.011069" lon="-5.020501">
+                <altura>1112.690</altura>
+            </coordenadas>
+            <coordenadas lat="43.028572" lon="-5.018208">
+                <altura>1117.618</altura>
+            </coordenadas>
+            <coordenadas lat="43.043836" lon="-5.007419">
+                <altura>1114.511</altura>
+            </coordenadas>
+            <coordenadas lat="43.060272" lon="-5.018643">
+                <altura>1149.327</altura>
+            </coordenadas>
+            <coordenadas lat="43.070901" lon="-5.020902">
+                <altura>1170.833</altura>
+            </coordenadas>
+            <coordenadas lat="43.074526" lon="-5.018139">
+                <altura>1183.271</altura>
+            </coordenadas>
+            <coordenadas lat="43.080821" lon="-5.020770">
+                <altura>1192.319</altura>
+            </coordenadas>
+            <coordenadas lat="43.089005" lon="-5.016443">
+                <altura>1221.009</altura>
+            </coordenadas>
+            <coordenadas lat="43.093043" lon="-5.020240">
+                <altura>1239.519</altura>
+            </coordenadas>
+            <coordenadas lat="43.099690" lon="-5.014129">
+                <altura>1277.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.098961" lon="-5.017936">
+                <altura>1290.696</altura>
+            </coordenadas>
+            <coordenadas lat="43.105071" lon="-5.024787">
+                <altura>1250.245</altura>
+            </coordenadas>
+            <coordenadas lat="43.102540" lon="-5.030201">
+                <altura>1230.285</altura>
+            </coordenadas>
+            <coordenadas lat="43.106553" lon="-5.033044">
+                <altura>1199.093</altura>
+            </coordenadas>
+            <coordenadas lat="43.104090" lon="-5.030377">
+                <altura>1185.766</altura>
+            </coordenadas>
+            <coordenadas lat="43.106599" lon="-5.026779">
+                <altura>1156.172</altura>
+            </coordenadas>
+            <coordenadas lat="43.107239" lon="-5.019097">
+                <altura>1121.138</altura>
+            </coordenadas>
+            <coordenadas lat="43.105735" lon="-5.016289">
+                <altura>1102.956</altura>
+            </coordenadas>
+            <coordenadas lat="43.108812" lon="-5.012579">
+                <altura>1084.371</altura>
+            </coordenadas>
+            <coordenadas lat="43.108596" lon="-5.017291">
+                <altura>1047.341</altura>
+            </coordenadas>
+            <coordenadas lat="43.112307" lon="-5.022659">
+                <altura>1026.815</altura>
+            </coordenadas>
+            <coordenadas lat="43.118708" lon="-5.023096">
+                <altura>986.608</altura>
+            </coordenadas>
+            <coordenadas lat="43.119454" lon="-5.017382">
+                <altura>960.742</altura>
+            </coordenadas>
+            <coordenadas lat="43.121108" lon="-5.016820">
+                <altura>949.541</altura>
+            </coordenadas>
+            <coordenadas lat="43.120806" lon="-5.013379">
+                <altura>944.371</altura>
+            </coordenadas>
+            <coordenadas lat="43.123307" lon="-5.012762">
+                <altura>931.749</altura>
+            </coordenadas>
+            <coordenadas lat="43.123286" lon="-5.008528">
+                <altura>912.092</altura>
+            </coordenadas>
+            <coordenadas lat="43.125201" lon="-5.011921">
+                <altura>890.538</altura>
+            </coordenadas>
+            <coordenadas lat="43.124236" lon="-5.017353">
+                <altura>868.664</altura>
+            </coordenadas>
+            <coordenadas lat="43.129273" lon="-5.026990">
+                <altura>829.512</altura>
+            </coordenadas>
+            <coordenadas lat="43.129726" lon="-5.034782">
+                <altura>796.946</altura>
+            </coordenadas>
+            <coordenadas lat="43.132476" lon="-5.038167">
+                <altura>769.488</altura>
+            </coordenadas>
+            <coordenadas lat="43.141253" lon="-5.038652">
+                <altura>724.116</altura>
+            </coordenadas>
+            <coordenadas lat="43.142713" lon="-5.036251">
+                <altura>721.508</altura>
+            </coordenadas>
+            <coordenadas lat="43.139496" lon="-5.047115">
+                <altura>647.859</altura>
+            </coordenadas>
+            <coordenadas lat="43.141565" lon="-5.048316">
+                <altura>638.848</altura>
+            </coordenadas>
+            <coordenadas lat="43.141981" lon="-5.052663">
+                <altura>604.928</altura>
+            </coordenadas>
+            <coordenadas lat="43.143893" lon="-5.052274">
+                <altura>597.126</altura>
+            </coordenadas>
+            <coordenadas lat="43.144595" lon="-5.058483">
+                <altura>560.619</altura>
+            </coordenadas>
+            <coordenadas lat="43.147948" lon="-5.057194">
+                <altura>532.945</altura>
+            </coordenadas>
+            <coordenadas lat="43.146479" lon="-5.066476">
+                <altura>594.991</altura>
+            </coordenadas>
+            <coordenadas lat="43.153434" lon="-5.071320">
+                <altura>452.039</altura>
+            </coordenadas>
+            <coordenadas lat="43.156172" lon="-5.076757">
+                <altura>441.393</altura>
+            </coordenadas>
+            <coordenadas lat="43.165733" lon="-5.077544">
+                <altura>405.965</altura>
+            </coordenadas>
+            <coordenadas lat="43.166898" lon="-5.074912">
+                <altura>408.521</altura>
+            </coordenadas>
+            <coordenadas lat="43.172452" lon="-5.075279">
+                <altura>468.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.173744" lon="-5.078280">
+                <altura>427.354</altura>
+            </coordenadas>
+            <coordenadas lat="43.186051" lon="-5.076052">
+                <altura>333.043</altura>
+            </coordenadas>
+            <coordenadas lat="43.188469" lon="-5.079666">
+                <altura>355.373</altura>
+            </coordenadas>
+            <coordenadas lat="43.207582" lon="-5.091631">
+                <altura>303.621</altura>
+            </coordenadas>
+            <coordenadas lat="43.210125" lon="-5.090433">
+                <altura>295.724</altura>
+            </coordenadas>
+            <coordenadas lat="43.212161" lon="-5.092750">
+                <altura>277.960</altura>
+            </coordenadas>
+            <coordenadas lat="43.222766" lon="-5.091569">
+                <altura>258.116</altura>
+            </coordenadas>
+            <coordenadas lat="43.224519" lon="-5.094400">
+                <altura>552.984</altura>
+            </coordenadas>
+            <coordenadas lat="43.228056" lon="-5.090957">
+                <altura>249.691</altura>
+            </coordenadas>
+            <coordenadas lat="43.231380" lon="-5.093200">
+                <altura>234.681</altura>
+            </coordenadas>
+            <coordenadas lat="43.234761" lon="-5.091411">
+                <altura>223.919</altura>
+            </coordenadas>
+            <coordenadas lat="43.239280" lon="-5.094129">
+                <altura>213.708</altura>
+            </coordenadas>
+            <coordenadas lat="43.245510" lon="-5.106513">
+                <altura>190.214</altura>
+            </coordenadas>
+            <coordenadas lat="43.254220" lon="-5.110334">
+                <altura>213.453</altura>
+            </coordenadas>
+            <coordenadas lat="43.256899" lon="-5.115706">
+                <altura>176.143</altura>
+            </coordenadas>
+            <coordenadas lat="43.259958" lon="-5.116287">
+                <altura>199.041</altura>
+            </coordenadas>
+            <coordenadas lat="43.259198" lon="-5.118428">
+                <altura>168.224</altura>
+            </coordenadas>
+            <coordenadas lat="43.263313" lon="-5.126337">
+                <altura>156.060</altura>
+            </coordenadas>
+            <coordenadas lat="43.265676" lon="-5.126953">
+                <altura>158.936</altura>
+            </coordenadas>
+            <coordenadas lat="43.265879" lon="-5.131042">
+                <altura>150.154</altura>
+            </coordenadas>
+            <coordenadas lat="43.272520" lon="-5.143146">
+                <altura>137.849</altura>
+            </coordenadas>
+            <coordenadas lat="43.276387" lon="-5.140743">
+                <altura>136.402</altura>
+            </coordenadas>
+            <coordenadas lat="43.278097" lon="-5.135480">
+                <altura>136.922</altura>
+            </coordenadas>
+            <coordenadas lat="43.281532" lon="-5.137819">
+                <altura>126.408</altura>
+            </coordenadas>
+            <coordenadas lat="43.285989" lon="-5.134253">
+                <altura>122.249</altura>
+            </coordenadas>
+            <coordenadas lat="43.291719" lon="-5.134337">
+                <altura>132.628</altura>
+            </coordenadas>
+            <coordenadas lat="43.294539" lon="-5.137272">
+                <altura>115.598</altura>
+            </coordenadas>
+            <coordenadas lat="43.296198" lon="-5.132468">
+                <altura>133.056</altura>
+            </coordenadas>
+            <coordenadas lat="43.302426" lon="-5.130784">
+                <altura>109.249</altura>
+            </coordenadas>
+            <coordenadas lat="43.303590" lon="-5.132812">
+                <altura>103.925</altura>
+            </coordenadas>
+            <coordenadas lat="43.308954" lon="-5.130103">
+                <altura>100.691</altura>
+            </coordenadas>
+            <coordenadas lat="43.318135" lon="-5.130136">
+                <altura>92.969</altura>
+            </coordenadas>
+            <coordenadas lat="43.319879" lon="-5.133902">
+                <altura>91.885</altura>
+            </coordenadas>
+            <coordenadas lat="43.325130" lon="-5.131223">
+                <altura>88.689</altura>
+            </coordenadas>
+            <coordenadas lat="43.324623" lon="-5.137966">
+                <altura>86.817</altura>
+            </coordenadas>
+            <coordenadas lat="43.326505" lon="-5.139108">
+                <altura>84.508</altura>
+            </coordenadas>
+            <coordenadas lat="43.335224" lon="-5.133643">
+                <altura>73.173</altura>
+            </coordenadas>
+            <coordenadas lat="43.350620" lon="-5.131172">
+                <altura>64.092</altura>
+            </coordenadas>
+            <coordenadas lat="43.349461" lon="-5.101555">
+                <altura>74.982</altura>
+            </coordenadas>
+            <coordenadas lat="43.350717" lon="-5.095148">
+                <altura>80.740</altura>
+            </coordenadas>
+            <coordenadas lat="43.346684" lon="-5.085786">
+                <altura>84.883</altura>
+            </coordenadas>
+            <coordenadas lat="43.347997" lon="-5.082341">
+                <altura>84.249</altura>
+            </coordenadas>
+            <coordenadas lat="43.345280" lon="-5.070167">
+                <altura>93.455</altura>
+            </coordenadas>
+            <coordenadas lat="43.348208" lon="-5.068081">
+                <altura>95.143</altura>
+            </coordenadas>
+            <coordenadas lat="43.346967" lon="-5.060698">
+                <altura>102.599</altura>
+            </coordenadas>
+            <coordenadas lat="43.348286" lon="-5.055582">
+                <altura>113.807</altura>
+            </coordenadas>
+            <coordenadas lat="43.343975" lon="-5.050235">
+                <altura>135.227</altura>
+            </coordenadas>
+            <coordenadas lat="43.346340" lon="-5.043531">
+                <altura>120.908</altura>
+            </coordenadas>
+            <coordenadas lat="43.348722" lon="-5.021840">
+                <altura>143.074</altura>
+            </coordenadas>
+            <coordenadas lat="43.342800" lon="-5.015475">
+                <altura>146.343</altura>
+            </coordenadas>
+            <coordenadas lat="43.337523" lon="-5.005383">
+                <altura>178.123</altura>
+            </coordenadas>
+            <coordenadas lat="43.337958" lon="-4.993704">
+                <altura>181.751</altura>
+            </coordenadas>
+            <coordenadas lat="43.333990" lon="-4.951802">
+                <altura>243.014</altura>
+            </coordenadas>
+            <coordenadas lat="43.339562" lon="-4.927747">
+                <altura>307.910</altura>
+            </coordenadas>
+            <coordenadas lat="43.337471" lon="-4.922097">
+                <altura>357.186</altura>
+            </coordenadas>
+            <coordenadas lat="43.337989" lon="-4.914196">
+                <altura>389.974</altura>
+            </coordenadas>
+            <coordenadas lat="43.332881" lon="-4.903956">
+                <altura>431.135</altura>
+            </coordenadas>
+            <coordenadas lat="43.319241" lon="-4.900523">
+                <altura>425.886</altura>
+            </coordenadas>
+            <coordenadas lat="43.319750" lon="-4.896686">
+                <altura>407.214</altura>
+            </coordenadas>
+            <coordenadas lat="43.315617" lon="-4.880163">
+                <altura>325.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.316654" lon="-4.876249">
+                <altura>298.948</altura>
+            </coordenadas>
+            <coordenadas lat="43.321043" lon="-4.873589">
+                <altura>261.787</altura>
+            </coordenadas>
+            <coordenadas lat="43.316893" lon="-4.872003">
+                <altura>232.487</altura>
+            </coordenadas>
+            <coordenadas lat="43.315172" lon="-4.862963">
+                <altura>200.535</altura>
+            </coordenadas>
+            <coordenadas lat="43.316464" lon="-4.862176">
+                <altura>210.248</altura>
+            </coordenadas>
+            <coordenadas lat="43.314907" lon="-4.841810">
+                <altura>202.684</altura>
+            </coordenadas>
+            <coordenadas lat="43.308016" lon="-4.832704">
+                <altura>154.060</altura>
+            </coordenadas>
+            <coordenadas lat="43.303033" lon="-4.817871">
+                <altura>142.648</altura>
+            </coordenadas>
+            <coordenadas lat="43.299401" lon="-4.819386">
+                <altura>140.389</altura>
+            </coordenadas>
+            <coordenadas lat="43.299641" lon="-4.817410">
+                <altura>146.606</altura>
+            </coordenadas>
+            <coordenadas lat="43.293177" lon="-4.824735">
+                <altura>189.726</altura>
+            </coordenadas>
+            <coordenadas lat="43.289907" lon="-4.825673">
+                <altura>190.408</altura>
+            </coordenadas>
+            <coordenadas lat="43.284960" lon="-4.833580">
+                <altura>172.393</altura>
+            </coordenadas>
+            <coordenadas lat="43.275653" lon="-4.834239">
+                <altura>183.292</altura>
+            </coordenadas>
+            <coordenadas lat="43.269920" lon="-4.830956">
+                <altura>194.922</altura>
+            </coordenadas>
+            <coordenadas lat="43.258850" lon="-4.830430">
+                <altura>223.550</altura>
+            </coordenadas>
+            <coordenadas lat="43.256966" lon="-4.832973">
+                <altura>229.783</altura>
+            </coordenadas>
+            <coordenadas lat="43.259163" lon="-4.831833">
+                <altura>264.729</altura>
+            </coordenadas>
+            <coordenadas lat="43.258123" lon="-4.833642">
+                <altura>302.755</altura>
+            </coordenadas>
+            <coordenadas lat="43.259227" lon="-4.833103">
+                <altura>307.973</altura>
+            </coordenadas>
+            <coordenadas lat="43.257783" lon="-4.834634">
+                <altura>328.759</altura>
+            </coordenadas>
+            <coordenadas lat="43.259358" lon="-4.834311">
+                <altura>361.603</altura>
+            </coordenadas>
+            <coordenadas lat="43.258653" lon="-4.836839">
+                <altura>423.123</altura>
+            </coordenadas>
+            <coordenadas lat="43.259361" lon="-4.834144">
+                <altura>354.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.257747" lon="-4.834603">
+                <altura>326.990</altura>
+            </coordenadas>
+            <coordenadas lat="43.259243" lon="-4.833013">
+                <altura>305.239</altura>
+            </coordenadas>
+            <coordenadas lat="43.257991" lon="-4.833438">
+                <altura>288.969</altura>
+            </coordenadas>
+            <coordenadas lat="43.258876" lon="-4.831577">
+                <altura>256.167</altura>
+            </coordenadas>
+            <coordenadas lat="43.257049" lon="-4.832953">
+                <altura>230.670</altura>
+            </coordenadas>
+            <coordenadas lat="43.258053" lon="-4.830435">
+                <altura>213.476</altura>
+            </coordenadas>
+            <coordenadas lat="43.256181" lon="-4.814242">
+                <altura>359.282</altura>
+            </coordenadas>
+            <coordenadas lat="43.258928" lon="-4.808842">
+                <altura>410.070</altura>
+            </coordenadas>
+            <coordenadas lat="43.260099" lon="-4.799787">
+                <altura>501.455</altura>
+            </coordenadas>
+            <coordenadas lat="43.262614" lon="-4.794630">
+                <altura>535.007</altura>
+            </coordenadas>
+            <coordenadas lat="43.262887" lon="-4.796221">
+                <altura>539.217</altura>
+            </coordenadas>
+            <coordenadas lat="43.265133" lon="-4.779892">
+                <altura>646.708</altura>
+            </coordenadas>
+            <coordenadas lat="43.261294" lon="-4.769403">
+                <altura>712.810</altura>
+            </coordenadas>
+            <coordenadas lat="43.251465" lon="-4.761511">
+                <altura>767.959</altura>
+            </coordenadas>
+            <coordenadas lat="43.234411" lon="-4.757496">
+                <altura>887.289</altura>
+            </coordenadas>
+            <coordenadas lat="43.231697" lon="-4.752572">
+                <altura>922.337</altura>
+            </coordenadas>
+            <coordenadas lat="43.229662" lon="-4.754077">
+                <altura>931.670</altura>
+            </coordenadas>
+            <coordenadas lat="43.232655" lon="-4.748194">
+                <altura>1024.846</altura>
+            </coordenadas>
+            <coordenadas lat="43.231560" lon="-4.738023">
+                <altura>1118.532</altura>
+            </coordenadas>
+            <coordenadas lat="43.236134" lon="-4.739598">
+                <altura>1194.750</altura>
+            </coordenadas>
+            <coordenadas lat="43.237270" lon="-4.737098">
+                <altura>1235.814</altura>
+            </coordenadas>
+            <coordenadas lat="43.235138" lon="-4.728943">
+                <altura>1251.454</altura>
+            </coordenadas>
+            <coordenadas lat="43.236785" lon="-4.725034">
+                <altura>1283.909</altura>
+            </coordenadas>
+            <coordenadas lat="43.234341" lon="-4.722719">
+                <altura>1288.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.236789" lon="-4.719045">
+                <altura>1300.626</altura>
+            </coordenadas>
+            <coordenadas lat="43.253292" lon="-4.727029">
+                <altura>1187.625</altura>
+            </coordenadas>
+            <coordenadas lat="43.257938" lon="-4.715759">
+                <altura>1093.275</altura>
+            </coordenadas>
+            <coordenadas lat="43.258143" lon="-4.710014">
+                <altura>1066.263</altura>
+            </coordenadas>
+            <coordenadas lat="43.260353" lon="-4.706946">
+                <altura>1063.656</altura>
+            </coordenadas>
+            <coordenadas lat="43.259223" lon="-4.696311">
+                <altura>1021.642</altura>
+            </coordenadas>
+            <coordenadas lat="43.254765" lon="-4.687368">
+                <altura>996.038</altura>
+            </coordenadas>
+            <coordenadas lat="43.256085" lon="-4.668589">
+                <altura>924.596</altura>
+            </coordenadas>
+            <coordenadas lat="43.257439" lon="-4.668978">
+                <altura>912.638</altura>
+            </coordenadas>
+            <coordenadas lat="43.256081" lon="-4.668522">
+                <altura>924.370</altura>
+            </coordenadas>
+            <coordenadas lat="43.254785" lon="-4.687431">
+                <altura>996.817</altura>
+            </coordenadas>
+            <coordenadas lat="43.259246" lon="-4.696217">
+                <altura>1024.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.260301" lon="-4.707175">
+                <altura>1068.268</altura>
+            </coordenadas>
+            <coordenadas lat="43.258204" lon="-4.710064">
+                <altura>1071.477</altura>
+            </coordenadas>
+            <coordenadas lat="43.258000" lon="-4.715797">
+                <altura>1096.897</altura>
+            </coordenadas>
+            <coordenadas lat="43.253323" lon="-4.727108">
+                <altura>1189.745</altura>
+            </coordenadas>
+            <coordenadas lat="43.236823" lon="-4.719110">
+                <altura>1299.468</altura>
+            </coordenadas>
+            <coordenadas lat="43.234350" lon="-4.722732">
+                <altura>1288.124</altura>
+            </coordenadas>
+            <coordenadas lat="43.236794" lon="-4.725182">
+                <altura>1282.810</altura>
+            </coordenadas>
+            <coordenadas lat="43.235180" lon="-4.729331">
+                <altura>1254.548</altura>
+            </coordenadas>
+            <coordenadas lat="43.237309" lon="-4.737051">
+                <altura>1236.053</altura>
+            </coordenadas>
+            <coordenadas lat="43.236134" lon="-4.739612">
+                <altura>1194.304</altura>
+            </coordenadas>
+            <coordenadas lat="43.231733" lon="-4.738047">
+                <altura>1122.914</altura>
+            </coordenadas>
+            <coordenadas lat="43.232419" lon="-4.748669">
+                <altura>1021.808</altura>
+            </coordenadas>
+            <coordenadas lat="43.229732" lon="-4.754169">
+                <altura>928.720</altura>
+            </coordenadas>
+            <coordenadas lat="43.231770" lon="-4.752623">
+                <altura>925.249</altura>
+            </coordenadas>
+            <coordenadas lat="43.234431" lon="-4.757561">
+                <altura>884.019</altura>
+            </coordenadas>
+            <coordenadas lat="43.251669" lon="-4.761928">
+                <altura>757.167</altura>
+            </coordenadas>
+            <coordenadas lat="43.261352" lon="-4.769537">
+                <altura>711.340</altura>
+            </coordenadas>
+            <coordenadas lat="43.265288" lon="-4.781284">
+                <altura>638.826</altura>
+            </coordenadas>
+            <coordenadas lat="43.262880" lon="-4.796280">
+                <altura>540.482</altura>
+            </coordenadas>
+            <coordenadas lat="43.262571" lon="-4.794502">
+                <altura>544.030</altura>
+            </coordenadas>
+            <coordenadas lat="43.256458" lon="-4.814350">
+                <altura>346.476</altura>
+            </coordenadas>
+            <coordenadas lat="43.258230" lon="-4.828417">
+                <altura>242.990</altura>
+            </coordenadas>
+            <coordenadas lat="43.257257" lon="-4.830939">
+                <altura>231.419</altura>
+            </coordenadas>
+            <coordenadas lat="43.269980" lon="-4.831098">
+                <altura>184.908</altura>
+            </coordenadas>
+            <coordenadas lat="43.275818" lon="-4.834367">
+                <altura>178.382</altura>
+            </coordenadas>
+            <coordenadas lat="43.284841" lon="-4.833579">
+                <altura>175.861</altura>
+            </coordenadas>
+            <coordenadas lat="43.290062" lon="-4.825514">
+                <altura>193.851</altura>
+            </coordenadas>
+            <coordenadas lat="43.293222" lon="-4.824709">
+                <altura>189.919</altura>
+            </coordenadas>
+            <coordenadas lat="43.299768" lon="-4.817452">
+                <altura>143.172</altura>
+            </coordenadas>
+            <coordenadas lat="43.299308" lon="-4.818902">
+                <altura>140.718</altura>
+            </coordenadas>
+            <coordenadas lat="43.302720" lon="-4.818550">
+                <altura>138.354</altura>
+            </coordenadas>
+            <coordenadas lat="43.297948" lon="-4.795842">
+                <altura>127.642</altura>
+            </coordenadas>
+            <coordenadas lat="43.299969" lon="-4.787313">
+                <altura>116.362</altura>
+            </coordenadas>
+            <coordenadas lat="43.295919" lon="-4.775303">
+                <altura>134.583</altura>
+            </coordenadas>
+            <coordenadas lat="43.296926" lon="-4.753444">
+                <altura>117.611</altura>
+            </coordenadas>
+            <coordenadas lat="43.303475" lon="-4.745280">
+                <altura>99.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.312412" lon="-4.727530">
+                <altura>84.461</altura>
+            </coordenadas>
+            <coordenadas lat="43.314903" lon="-4.717428">
+                <altura>79.780</altura>
+            </coordenadas>
+            <coordenadas lat="43.317941" lon="-4.713606">
+                <altura>78.650</altura>
+            </coordenadas>
+            <coordenadas lat="43.315674" lon="-4.700991">
+                <altura>93.278</altura>
+            </coordenadas>
+            <coordenadas lat="43.315533" lon="-4.680849">
+                <altura>63.961</altura>
+            </coordenadas>
+            <coordenadas lat="43.318768" lon="-4.677401">
+                <altura>54.857</altura>
+            </coordenadas>
+            <coordenadas lat="43.324133" lon="-4.679012">
+                <altura>58.793</altura>
+            </coordenadas>
+            <coordenadas lat="43.329548" lon="-4.665714">
+                <altura>58.321</altura>
+            </coordenadas>
+            <coordenadas lat="43.329803" lon="-4.658516">
+                <altura>72.438</altura>
+            </coordenadas>
+            <coordenadas lat="43.327135" lon="-4.645302">
+                <altura>45.470</altura>
+            </coordenadas>
+            <coordenadas lat="43.320780" lon="-4.634259">
+                <altura>52.917</altura>
+            </coordenadas>
+            <coordenadas lat="43.317544" lon="-4.615750">
+                <altura>44.108</altura>
+            </coordenadas>
+            <coordenadas lat="43.321819" lon="-4.611091">
+                <altura>46.368</altura>
+            </coordenadas>
+            <coordenadas lat="43.322452" lon="-4.597066">
+                <altura>35.627</altura>
+            </coordenadas>
+            <coordenadas lat="43.327474" lon="-4.590083">
+                <altura>31.767</altura>
+            </coordenadas>
+            <coordenadas lat="43.326262" lon="-4.584473">
+                <altura>25.435</altura>
+            </coordenadas>
+            <coordenadas lat="43.328312" lon="-4.575249">
+                <altura>31.248</altura>
+            </coordenadas>
+            <coordenadas lat="43.326482" lon="-4.570720">
+                <altura>21.554</altura>
+            </coordenadas>
+            <coordenadas lat="43.326534" lon="-4.557848">
+                <altura>31.880</altura>
+            </coordenadas>
+            <coordenadas lat="43.328509" lon="-4.553871">
+                <altura>45.948</altura>
+            </coordenadas>
+            <coordenadas lat="43.331751" lon="-4.552488">
+                <altura>51.165</altura>
+            </coordenadas>
+            <coordenadas lat="43.332150" lon="-4.545089">
+                <altura>52.068</altura>
+            </coordenadas>
+            <coordenadas lat="43.335599" lon="-4.535313">
+                <altura>26.914</altura>
+            </coordenadas>
+            <coordenadas lat="43.341042" lon="-4.539519">
+                <altura>49.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.344926" lon="-4.533873">
+                <altura>73.621</altura>
+            </coordenadas>
+            <coordenadas lat="43.362029" lon="-4.530762">
+                <altura>13.430</altura>
+            </coordenadas>
+            <coordenadas lat="43.362855" lon="-4.524058">
+                <altura>18.390</altura>
+            </coordenadas>
+            <coordenadas lat="43.366223" lon="-4.519906">
+                <altura>5.128</altura>
+            </coordenadas>
+            <coordenadas lat="43.368054" lon="-4.522355">
+                <altura>4.011</altura>
+            </coordenadas>
+            <coordenadas lat="43.374351" lon="-4.517971">
+                <altura>4.847</altura>
+            </coordenadas>
+            <coordenadas lat="43.375415" lon="-4.504014">
+                <altura>5.773</altura>
+            </coordenadas>
+            <coordenadas lat="43.377036" lon="-4.503998">
+                <altura>6.971</altura>
+            </coordenadas>
+            <coordenadas lat="43.375771" lon="-4.512467">
+                <altura>6.451</altura>
+            </coordenadas>
+            <coordenadas lat="43.377775" lon="-4.520552">
+                <altura>7.001</altura>
+            </coordenadas>
+            <coordenadas lat="43.376762" lon="-4.535249">
+                <altura>33.211</altura>
+            </coordenadas>
+            <coordenadas lat="43.383238" lon="-4.560896">
+                <altura>57.308</altura>
+            </coordenadas>
+            <coordenadas lat="43.381740" lon="-4.572740">
+                <altura>58.750</altura>
+            </coordenadas>
+            <coordenadas lat="43.384514" lon="-4.583465">
+                <altura>47.959</altura>
+            </coordenadas>
+            <coordenadas lat="43.392395" lon="-4.589878">
+                <altura>57.969</altura>
+            </coordenadas>
+            <coordenadas lat="43.394410" lon="-4.594173">
+                <altura>62.617</altura>
+            </coordenadas>
+            <coordenadas lat="43.391673" lon="-4.624472">
+                <altura>56.970</altura>
+            </coordenadas>
+            <coordenadas lat="43.393924" lon="-4.647350">
+                <altura>50.966</altura>
+            </coordenadas>
+            <coordenadas lat="43.399847" lon="-4.663386">
+                <altura>44.962</altura>
+            </coordenadas>
+            <coordenadas lat="43.402720" lon="-4.682044">
+                <altura>32.910</altura>
+            </coordenadas>
+            <coordenadas lat="43.398690" lon="-4.715647">
+                <altura>33.755</altura>
+            </coordenadas>
+            <coordenadas lat="43.402602" lon="-4.727999">
+                <altura>60.307</altura>
+            </coordenadas>
+            <coordenadas lat="43.404704" lon="-4.757913">
+                <altura>41.617</altura>
+            </coordenadas>
+            <coordenadas lat="43.412998" lon="-4.784043">
+                <altura>31.608</altura>
+            </coordenadas>
+            <coordenadas lat="43.421190" lon="-4.796297">
+                <altura>27.170</altura>
+            </coordenadas>
+            <coordenadas lat="43.425053" lon="-4.819836">
+                <altura>32.069</altura>
+            </coordenadas>
+            <coordenadas lat="43.428748" lon="-4.829597">
+                <altura>27.399</altura>
+            </coordenadas>
+            <coordenadas lat="43.429053" lon="-4.841752">
+                <altura>54.377</altura>
+            </coordenadas>
+            <coordenadas lat="43.432206" lon="-4.854010">
+                <altura>48.220</altura>
+            </coordenadas>
+            <coordenadas lat="43.432175" lon="-4.865741">
+                <altura>51.386</altura>
+            </coordenadas>
+            <coordenadas lat="43.440011" lon="-4.873051">
+                <altura>25.072</altura>
+            </coordenadas>
+            <coordenadas lat="43.444190" lon="-4.886717">
+                <altura>30.690</altura>
+            </coordenadas>
+            <coordenadas lat="43.443642" lon="-4.908949">
+                <altura>25.777</altura>
+            </coordenadas>
+            <coordenadas lat="43.445363" lon="-4.918650">
+                <altura>40.061</altura>
+            </coordenadas>
+            <coordenadas lat="43.443468" lon="-4.942487">
+                <altura>47.427</altura>
+            </coordenadas>
+            <coordenadas lat="43.440357" lon="-4.955122">
+                <altura>65.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.437839" lon="-4.984722">
+                <altura>59.822</altura>
+            </coordenadas>
+            <coordenadas lat="43.434860" lon="-4.997139">
+                <altura>58.281</altura>
+            </coordenadas>
+            <coordenadas lat="43.439685" lon="-5.026317">
+                <altura>70.651</altura>
+            </coordenadas>
+            <coordenadas lat="43.439515" lon="-5.038381">
+                <altura>40.339</altura>
+            </coordenadas>
+            <coordenadas lat="43.435105" lon="-5.059077">
+                <altura>4.942</altura>
+            </coordenadas>
+            <coordenadas lat="43.442193" lon="-5.090766">
+                <altura>121.238</altura>
+            </coordenadas>
+            <coordenadas lat="43.446989" lon="-5.097074">
+                <altura>87.464</altura>
+            </coordenadas>
+            <coordenadas lat="43.450302" lon="-5.106383">
+                <altura>91.872</altura>
+            </coordenadas>
+            <coordenadas lat="43.460412" lon="-5.116044">
+                <altura>117.494</altura>
+            </coordenadas>
+            <coordenadas lat="43.462006" lon="-5.121391">
+                <altura>79.357</altura>
+            </coordenadas>
+            <coordenadas lat="43.464977" lon="-5.118611">
+                <altura>82.922</altura>
+            </coordenadas>
+            <coordenadas lat="43.465674" lon="-5.123156">
+                <altura>64.408</altura>
+            </coordenadas>
+            <coordenadas lat="43.464223" lon="-5.125828">
+                <altura>44.594</altura>
+            </coordenadas>
+            <coordenadas lat="43.468286" lon="-5.134947">
+                <altura>57.393</altura>
+            </coordenadas>
+            <coordenadas lat="43.470045" lon="-5.132975">
+                <altura>67.763</altura>
+            </coordenadas>
+            <coordenadas lat="43.472803" lon="-5.134425">
+                <altura>76.111</altura>
+            </coordenadas>
+            <coordenadas lat="43.472517" lon="-5.142968">
+                <altura>95.114</altura>
+            </coordenadas>
+            <coordenadas lat="43.474506" lon="-5.151027">
+                <altura>81.530</altura>
+            </coordenadas>
+            <coordenadas lat="43.473702" lon="-5.156277">
+                <altura>51.696</altura>
+            </coordenadas>
+            <coordenadas lat="43.471860" lon="-5.155081">
+                <altura>46.274</altura>
+            </coordenadas>
+            <coordenadas lat="43.473581" lon="-5.161277">
+                <altura>32.354</altura>
+            </coordenadas>
+            <coordenadas lat="43.473116" lon="-5.168057">
+                <altura>54.456</altura>
+            </coordenadas>
+            <coordenadas lat="43.465441" lon="-5.184853">
+                <altura>127.311</altura>
+            </coordenadas>
+            <coordenadas lat="43.461722" lon="-5.187248">
+                <altura>126.108</altura>
+            </coordenadas>
+            <coordenadas lat="43.460573" lon="-5.192718">
+                <altura>105.890</altura>
+            </coordenadas>
+            <coordenadas lat="43.463608" lon="-5.199130">
+                <altura>95.319</altura>
+            </coordenadas>
+            <coordenadas lat="43.463098" lon="-5.202081">
+                <altura>88.779</altura>
+            </coordenadas>
+            <coordenadas lat="43.466556" lon="-5.200224">
+                <altura>77.527</altura>
+            </coordenadas>
+            <coordenadas lat="43.469113" lon="-5.210192">
+                <altura>34.460</altura>
+            </coordenadas>
+            <coordenadas lat="43.473984" lon="-5.212204">
+                <altura>5.526</altura>
+            </coordenadas>
+            <coordenadas lat="43.471803" lon="-5.213263">
+                <altura>9.132</altura>
+            </coordenadas>
+            <coordenadas lat="43.481477" lon="-5.234687">
+                <altura>18.950</altura>
+            </coordenadas>
+            <coordenadas lat="43.484114" lon="-5.255969">
+                <altura>27.292</altura>
+            </coordenadas>
+            <coordenadas lat="43.481175" lon="-5.254913">
+                <altura>41.873</altura>
+            </coordenadas>
+            <coordenadas lat="43.482193" lon="-5.263713">
+                <altura>35.320</altura>
+            </coordenadas>
+            <coordenadas lat="43.480320" lon="-5.274480">
+                <altura>9.008</altura>
+            </coordenadas>
+            <coordenadas lat="43.482345" lon="-5.285757">
+                <altura>11.044</altura>
+            </coordenadas>
+            <coordenadas lat="43.480600" lon="-5.295993">
+                <altura>17.483</altura>
+            </coordenadas>
+            <coordenadas lat="43.488815" lon="-5.317277">
+                <altura>27.863</altura>
+            </coordenadas>
+            <coordenadas lat="43.497438" lon="-5.328714">
+                <altura>108.171</altura>
+            </coordenadas>
+            <coordenadas lat="43.505510" lon="-5.332843">
+                <altura>143.414</altura>
+            </coordenadas>
+            <coordenadas lat="43.506159" lon="-5.341005">
+                <altura>159.080</altura>
+            </coordenadas>
+            <coordenadas lat="43.504242" lon="-5.344744">
+                <altura>145.476</altura>
+            </coordenadas>
+            <coordenadas lat="43.503257" lon="-5.355906">
+                <altura>106.424</altura>
+            </coordenadas>
+            <coordenadas lat="43.495994" lon="-5.371818">
+                <altura>61.354</altura>
+            </coordenadas>
+            <coordenadas lat="43.499862" lon="-5.385287">
+                <altura>37.056</altura>
+            </coordenadas>
+            <coordenadas lat="43.501497" lon="-5.410100">
+                <altura>34.811</altura>
+            </coordenadas>
+            <coordenadas lat="43.489929" lon="-5.421197">
+                <altura>29.708</altura>
+            </coordenadas>
+            <coordenadas lat="43.487553" lon="-5.433192">
+                <altura>2.090</altura>
+            </coordenadas>
+            <coordenadas lat="43.487358" lon="-5.449134">
+                <altura>19.429</altura>
+            </coordenadas>
+            <coordenadas lat="43.485453" lon="-5.454591">
+                <altura>44.689</altura>
+            </coordenadas>
+            <coordenadas lat="43.477034" lon="-5.461346">
+                <altura>73.937</altura>
+            </coordenadas>
+            <coordenadas lat="43.471498" lon="-5.469284">
+                <altura>53.320</altura>
+            </coordenadas>
+            <coordenadas lat="43.467620" lon="-5.482453">
+                <altura>47.856</altura>
+            </coordenadas>
+            <coordenadas lat="43.459557" lon="-5.497174">
+                <altura>70.712</altura>
+            </coordenadas>
+            <coordenadas lat="43.455856" lon="-5.521949">
+                <altura>110.140</altura>
+            </coordenadas>
+            <coordenadas lat="43.451333" lon="-5.528390">
+                <altura>137.757</altura>
+            </coordenadas>
+            <coordenadas lat="43.431442" lon="-5.539347">
+                <altura>292.800</altura>
+            </coordenadas>
+            <coordenadas lat="43.416351" lon="-5.554391">
+                <altura>309.920</altura>
+            </coordenadas>
+            <coordenadas lat="43.413667" lon="-5.562617">
+                <altura>300.708</altura>
+            </coordenadas>
+            <coordenadas lat="43.402104" lon="-5.573492">
+                <altura>266.180</altura>
+            </coordenadas>
+            <coordenadas lat="43.394512" lon="-5.575338">
+                <altura>250.339</altura>
+            </coordenadas>
+            <coordenadas lat="43.378432" lon="-5.589955">
+                <altura>234.749</altura>
+            </coordenadas>
+            <coordenadas lat="43.376786" lon="-5.602714">
+                <altura>230.477</altura>
+            </coordenadas>
+            <coordenadas lat="43.386461" lon="-5.626687">
+                <altura>220.010</altura>
+            </coordenadas>
+            <coordenadas lat="43.387770" lon="-5.639571">
+                <altura>220.546</altura>
+            </coordenadas>
+            <coordenadas lat="43.384880" lon="-5.666955">
+                <altura>218.642</altura>
+            </coordenadas>
+            <coordenadas lat="43.382326" lon="-5.676159">
+                <altura>211.960</altura>
+            </coordenadas>
+            <coordenadas lat="43.382155" lon="-5.689146">
+                <altura>205.095</altura>
+            </coordenadas>
+            <coordenadas lat="43.378930" lon="-5.701208">
+                <altura>190.149</altura>
+            </coordenadas>
+            <coordenadas lat="43.381805" lon="-5.731813">
+                <altura>196.823</altura>
+            </coordenadas>
+            <coordenadas lat="43.385246" lon="-5.744650">
+                <altura>193.508</altura>
+            </coordenadas>
+            <coordenadas lat="43.386729" lon="-5.764789">
+                <altura>193.064</altura>
+            </coordenadas>
+            <coordenadas lat="43.391854" lon="-5.779396">
+                <altura>178.713</altura>
+            </coordenadas>
+            <coordenadas lat="43.395042" lon="-5.804397">
+                <altura>182.323</altura>
+            </coordenadas>
+            <coordenadas lat="43.383361" lon="-5.812952">
+                <altura>162.361</altura>
+            </coordenadas>
+            <coordenadas lat="43.373147" lon="-5.812215">
+                <altura>176.384</altura>
+            </coordenadas>
+            <coordenadas lat="43.363674" lon="-5.817946">
+                <altura>202.310</altura>
+            </coordenadas>
+            <coordenadas lat="43.358879" lon="-5.827052">
+                <altura>233.496</altura>
+            </coordenadas>
+            <coordenadas lat="43.352233" lon="-5.831253">
+                <altura>260.454</altura>
+            </coordenadas>
+            <coordenadas lat="43.349106" lon="-5.839987">
+                <altura>263.085</altura>
+            </coordenadas>
+            <coordenadas lat="43.348409" lon="-5.855788">
+                <altura>219.789</altura>
+            </coordenadas>
+            <coordenadas lat="43.356682" lon="-5.854380">
+                <altura>249.317</altura>
+            </coordenadas>
+            <coordenadas lat="43.352789" lon="-5.856547">
+                <altura>229.608</altura>
+            </coordenadas>
+            <coordenadas lat="43.353089" lon="-5.858807">
+                <altura>229.663</altura>
+            </coordenadas>
+            <coordenadas lat="43.350424" lon="-5.858902">
+                <altura>242.012</altura>
+            </coordenadas>
+            <coordenadas lat="43.351174" lon="-5.861507">
+                <altura>249.412</altura>
+            </coordenadas>
+            <coordenadas lat="43.352010" lon="-5.859345">
+                <altura>237.580</altura>
+            </coordenadas>
+        </coordenadasRuta>
+        <Hitos>
+            <Hito nombre="Ciudad de Oviedo">
+                <Descripcion>Capital de asturias con muchas cosas para ver</Descripcion>
+                <Localizacion pais="Espana">
+                    <Ciudad>Oviedo</Ciudad>
+                    <direccion>Calle Angel Muniz Toca, 33006 Oviedo, Asturias
+                    </direccion>
+                    <coordenadas lat="43.355796" lon="-5.856588">
+                        <altura>248.566</altura>
+                    </coordenadas>
+                </Localizacion>
+                <distancia-hito-anterior unidad="kms" tiempo="0">0</distancia-hito-anterior>
+                <Galeria-img><img type="jpg">multimedia/Ruta1-hito1.JPG</img><img type="jpg">multimedia/Ruta1-hito1.JPG</img></Galeria-img>
+                <Galeria-video><video type="link">multimedia/asturias.mp4</video></Galeria-video>
+            </Hito>
+            <Hito nombre="Veguin de Alla">
+                <Descripcion>Pueblo asturiano</Descripcion>
+                <Localizacion pais="Espana">
+                    <Ciudad>Veguin de Alla</Ciudad>
+                    <direccion>33910 Asturias</direccion>
+                    <coordenadas lat="43.332426" lon="-5.769860">
+                        <altura>170.343</altura>
+                    </coordenadas>
+                </Localizacion>
+                <distancia-hito-anterior unidad="kms" tiempo="0.3">11.2</distancia-hito-anterior>
+                <Galeria-img><img type="jpg">multimedia/Ruta1-hito2.JPG</img></Galeria-img>
+                <Galeria-video><video type="enlace">multimedia/asturias.mp4</video></Galeria-video>
+            </Hito>
+            <Hito nombre="Riano">
+                <Descripcion>Pueblo Asturiano</Descripcion>
+                <Localizacion pais="Espana">
+                    <Ciudad>Riano</Ciudad>
+                    <direccion>24900 Leon</direccion>
+                    <coordenadas lat="42.996253" lon="-5.000480">
+                        <altura>1132.587</altura>
+                    </coordenadas>
+                </Localizacion>
+                <distancia-hito-anterior unidad="kms" tiempo="4">110</distancia-hito-anterior>
+                <Galeria-img><img type="jpg">multimedia/Ruta1-hito3.JPG</img></Galeria-img>
+                <Galeria-video><video type="mpp4">multimedia/asturias.mp4</video></Galeria-video>
+            </Hito>
+        </Hitos>
+    </RutaTuristica>
+
+    <RutaTuristica nombre="Ruta por los Ancares" tipo="Montanera" dificaultad="Alta" puntuacion="10" Agencia="Agencia 2">
+        <Duracion>
+            <fecha type-date="dd-mm-yy">01-01-20</fecha>
+            <hora type-hour="hh:mm">00:00</hora>
+            <tiempo unidad="hours">8</tiempo>
+        </Duracion>
+        <Descripcion>Ruta por el sur de asturias y el norte de leon</Descripcion>
+        <Recomendaciones><recomendacion>Recomendado para moteros de montana</recomendacion></Recomendaciones>
+        <Localizacion pais="Espana">
+            <Ciudad>Oviedo</Ciudad>
+            <direccion>Calle Angel Muniz Toca, 33006 Oviedo, Asturias</direccion>
+            <coordenadas lat="43.352413" lon="-5.859442">
+                <altura>234.689</altura>
+            </coordenadas>
+        </Localizacion>
+        <Referencias><referencia>http://www.lne.com</referencia></Referencias>
+        <coordenadasRuta>
+            <coordenadas lat="43.352413" lon="-5.859442">
+                <altura>234.689</altura>
+            </coordenadas>
+            <coordenadas lat="43.356677" lon="-5.857055">
+                <altura>250.406</altura>
+            </coordenadas>
+            <coordenadas lat="43.356497" lon="-5.861854">
+                <altura>266.326</altura>
+            </coordenadas>
+            <coordenadas lat="43.351941" lon="-5.864955">
+                <altura>256.008</altura>
+            </coordenadas>
+            <coordenadas lat="43.350383" lon="-5.859634">
+                <altura>243.953</altura>
+            </coordenadas>
+            <coordenadas lat="43.352268" lon="-5.857560">
+                <altura>234.285</altura>
+            </coordenadas>
+            <coordenadas lat="43.348913" lon="-5.858759">
+                <altura>224.979</altura>
+            </coordenadas>
+            <coordenadas lat="43.343558" lon="-5.869368">
+                <altura>208.886</altura>
+            </coordenadas>
+            <coordenadas lat="43.341859" lon="-5.882921">
+                <altura>248.798</altura>
+            </coordenadas>
+            <coordenadas lat="43.347841" lon="-5.898208">
+                <altura>252.310</altura>
+            </coordenadas>
+            <coordenadas lat="43.348725" lon="-5.905973">
+                <altura>220.181</altura>
+            </coordenadas>
+            <coordenadas lat="43.353252" lon="-5.912593">
+                <altura>198.184</altura>
+            </coordenadas>
+            <coordenadas lat="43.352549" lon="-5.927432">
+                <altura>166.045</altura>
+            </coordenadas>
+            <coordenadas lat="43.355235" lon="-5.937649">
+                <altura>167.347</altura>
+            </coordenadas>
+            <coordenadas lat="43.361990" lon="-5.948684">
+                <altura>141.811</altura>
+            </coordenadas>
+            <coordenadas lat="43.372050" lon="-5.956603">
+                <altura>82.508</altura>
+            </coordenadas>
+            <coordenadas lat="43.372955" lon="-5.977160">
+                <altura>121.469</altura>
+            </coordenadas>
+            <coordenadas lat="43.379141" lon="-5.994459">
+                <altura>141.361</altura>
+            </coordenadas>
+            <coordenadas lat="43.386748" lon="-6.002170">
+                <altura>70.025</altura>
+            </coordenadas>
+            <coordenadas lat="43.395229" lon="-6.031577">
+                <altura>108.752</altura>
+            </coordenadas>
+            <coordenadas lat="43.394841" lon="-6.045135">
+                <altura>114.274</altura>
+            </coordenadas>
+            <coordenadas lat="43.390989" lon="-6.053933">
+                <altura>97.546</altura>
+            </coordenadas>
+            <coordenadas lat="43.379726" lon="-6.059028">
+                <altura>90.077</altura>
+            </coordenadas>
+            <coordenadas lat="43.380461" lon="-6.076480">
+                <altura>97.630</altura>
+            </coordenadas>
+            <coordenadas lat="43.378945" lon="-6.084412">
+                <altura>105.547</altura>
+            </coordenadas>
+            <coordenadas lat="43.386347" lon="-6.102166">
+                <altura>214.129</altura>
+            </coordenadas>
+            <coordenadas lat="43.383125" lon="-6.115350">
+                <altura>299.321</altura>
+            </coordenadas>
+            <coordenadas lat="43.385258" lon="-6.125946">
+                <altura>288.608</altura>
+            </coordenadas>
+            <coordenadas lat="43.392627" lon="-6.134451">
+                <altura>211.239</altura>
+            </coordenadas>
+            <coordenadas lat="43.398353" lon="-6.137528">
+                <altura>171.531</altura>
+            </coordenadas>
+            <coordenadas lat="43.392851" lon="-6.137773">
+                <altura>161.315</altura>
+            </coordenadas>
+            <coordenadas lat="43.395276" lon="-6.149556">
+                <altura>97.052</altura>
+            </coordenadas>
+            <coordenadas lat="43.393695" lon="-6.153814">
+                <altura>65.054</altura>
+            </coordenadas>
+            <coordenadas lat="43.380358" lon="-6.154769">
+                <altura>65.516</altura>
+            </coordenadas>
+            <coordenadas lat="43.372194" lon="-6.149888">
+                <altura>69.087</altura>
+            </coordenadas>
+            <coordenadas lat="43.360736" lon="-6.157791">
+                <altura>83.370</altura>
+            </coordenadas>
+            <coordenadas lat="43.355327" lon="-6.167760">
+                <altura>93.559</altura>
+            </coordenadas>
+            <coordenadas lat="43.355504" lon="-6.174948">
+                <altura>94.203</altura>
+            </coordenadas>
+            <coordenadas lat="43.350973" lon="-6.195361">
+                <altura>92.823</altura>
+            </coordenadas>
+            <coordenadas lat="43.352466" lon="-6.203317">
+                <altura>105.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.367147" lon="-6.227077">
+                <altura>133.080</altura>
+            </coordenadas>
+            <coordenadas lat="43.358842" lon="-6.248562">
+                <altura>114.372</altura>
+            </coordenadas>
+            <coordenadas lat="43.361551" lon="-6.263683">
+                <altura>130.176</altura>
+            </coordenadas>
+            <coordenadas lat="43.357974" lon="-6.282910">
+                <altura>152.723</altura>
+            </coordenadas>
+            <coordenadas lat="43.344246" lon="-6.287692">
+                <altura>149.165</altura>
+            </coordenadas>
+            <coordenadas lat="43.338540" lon="-6.297271">
+                <altura>163.987</altura>
+            </coordenadas>
+            <coordenadas lat="43.331345" lon="-6.293328">
+                <altura>168.418</altura>
+            </coordenadas>
+            <coordenadas lat="43.325011" lon="-6.296704">
+                <altura>164.181</altura>
+            </coordenadas>
+            <coordenadas lat="43.320395" lon="-6.306344">
+                <altura>243.941</altura>
+            </coordenadas>
+            <coordenadas lat="43.312292" lon="-6.311971">
+                <altura>298.681</altura>
+            </coordenadas>
+            <coordenadas lat="43.306770" lon="-6.320185">
+                <altura>294.509</altura>
+            </coordenadas>
+            <coordenadas lat="43.303210" lon="-6.320538">
+                <altura>244.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.299995" lon="-6.325236">
+                <altura>237.229</altura>
+            </coordenadas>
+            <coordenadas lat="43.299480" lon="-6.340227">
+                <altura>239.461</altura>
+            </coordenadas>
+            <coordenadas lat="43.295404" lon="-6.342617">
+                <altura>225.025</altura>
+            </coordenadas>
+            <coordenadas lat="43.289523" lon="-6.364007">
+                <altura>221.862</altura>
+            </coordenadas>
+            <coordenadas lat="43.295398" lon="-6.380988">
+                <altura>228.244</altura>
+            </coordenadas>
+            <coordenadas lat="43.292408" lon="-6.398394">
+                <altura>220.776</altura>
+            </coordenadas>
+            <coordenadas lat="43.294388" lon="-6.404874">
+                <altura>236.067</altura>
+            </coordenadas>
+            <coordenadas lat="43.289570" lon="-6.411652">
+                <altura>231.810</altura>
+            </coordenadas>
+            <coordenadas lat="43.292113" lon="-6.410678">
+                <altura>238.567</altura>
+            </coordenadas>
+            <coordenadas lat="43.295097" lon="-6.413723">
+                <altura>251.581</altura>
+            </coordenadas>
+            <coordenadas lat="43.293603" lon="-6.419950">
+                <altura>230.619</altura>
+            </coordenadas>
+            <coordenadas lat="43.296649" lon="-6.422671">
+                <altura>246.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.297474" lon="-6.431222">
+                <altura>250.651</altura>
+            </coordenadas>
+            <coordenadas lat="43.291703" lon="-6.430947">
+                <altura>243.513</altura>
+            </coordenadas>
+            <coordenadas lat="43.289177" lon="-6.435112">
+                <altura>285.297</altura>
+            </coordenadas>
+            <coordenadas lat="43.284533" lon="-6.432165">
+                <altura>259.514</altura>
+            </coordenadas>
+            <coordenadas lat="43.284510" lon="-6.435359">
+                <altura>300.956</altura>
+            </coordenadas>
+            <coordenadas lat="43.280236" lon="-6.435615">
+                <altura>269.848</altura>
+            </coordenadas>
+            <coordenadas lat="43.280546" lon="-6.439182">
+                <altura>285.559</altura>
+            </coordenadas>
+            <coordenadas lat="43.277747" lon="-6.444199">
+                <altura>255.832</altura>
+            </coordenadas>
+            <coordenadas lat="43.279643" lon="-6.450722">
+                <altura>279.768</altura>
+            </coordenadas>
+            <coordenadas lat="43.272482" lon="-6.450518">
+                <altura>268.442</altura>
+            </coordenadas>
+            <coordenadas lat="43.267834" lon="-6.456084">
+                <altura>292.426</altura>
+            </coordenadas>
+            <coordenadas lat="43.265511" lon="-6.454981">
+                <altura>274.908</altura>
+            </coordenadas>
+            <coordenadas lat="43.258238" lon="-6.467509">
+                <altura>281.991</altura>
+            </coordenadas>
+            <coordenadas lat="43.256777" lon="-6.478152">
+                <altura>322.483</altura>
+            </coordenadas>
+            <coordenadas lat="43.254805" lon="-6.478526">
+                <altura>290.887</altura>
+            </coordenadas>
+            <coordenadas lat="43.254708" lon="-6.484497">
+                <altura>325.754</altura>
+            </coordenadas>
+            <coordenadas lat="43.251460" lon="-6.481744">
+                <altura>304.186</altura>
+            </coordenadas>
+            <coordenadas lat="43.243670" lon="-6.489818">
+                <altura>304.958</altura>
+            </coordenadas>
+            <coordenadas lat="43.245274" lon="-6.492905">
+                <altura>318.429</altura>
+            </coordenadas>
+            <coordenadas lat="43.242180" lon="-6.501972">
+                <altura>310.662</altura>
+            </coordenadas>
+            <coordenadas lat="43.242740" lon="-6.506952">
+                <altura>314.744</altura>
+            </coordenadas>
+            <coordenadas lat="43.237682" lon="-6.509563">
+                <altura>312.705</altura>
+            </coordenadas>
+            <coordenadas lat="43.236143" lon="-6.515728">
+                <altura>335.615</altura>
+            </coordenadas>
+            <coordenadas lat="43.230779" lon="-6.517456">
+                <altura>321.408</altura>
+            </coordenadas>
+            <coordenadas lat="43.230353" lon="-6.523561">
+                <altura>340.999</altura>
+            </coordenadas>
+            <coordenadas lat="43.224079" lon="-6.526219">
+                <altura>356.661</altura>
+            </coordenadas>
+            <coordenadas lat="43.215355" lon="-6.523184">
+                <altura>334.285</altura>
+            </coordenadas>
+            <coordenadas lat="43.210251" lon="-6.528054">
+                <altura>346.132</altura>
+            </coordenadas>
+            <coordenadas lat="43.207370" lon="-6.526699">
+                <altura>347.214</altura>
+            </coordenadas>
+            <coordenadas lat="43.205354" lon="-6.531322">
+                <altura>341.666</altura>
+            </coordenadas>
+            <coordenadas lat="43.201157" lon="-6.529433">
+                <altura>350.857</altura>
+            </coordenadas>
+            <coordenadas lat="43.200796" lon="-6.538842">
+                <altura>347.670</altura>
+            </coordenadas>
+            <coordenadas lat="43.192059" lon="-6.545578">
+                <altura>351.454</altura>
+            </coordenadas>
+            <coordenadas lat="43.183950" lon="-6.544221">
+                <altura>370.756</altura>
+            </coordenadas>
+            <coordenadas lat="43.180871" lon="-6.546505">
+                <altura>373.511</altura>
+            </coordenadas>
+            <coordenadas lat="43.180229" lon="-6.550436">
+                <altura>380.808</altura>
+            </coordenadas>
+            <coordenadas lat="43.171146" lon="-6.546394">
+                <altura>381.350</altura>
+            </coordenadas>
+            <coordenadas lat="43.169304" lon="-6.542661">
+                <altura>392.962</altura>
+            </coordenadas>
+            <coordenadas lat="43.155040" lon="-6.540355">
+                <altura>394.076</altura>
+            </coordenadas>
+            <coordenadas lat="43.149677" lon="-6.535756">
+                <altura>412.123</altura>
+            </coordenadas>
+            <coordenadas lat="43.146947" lon="-6.536035">
+                <altura>404.335</altura>
+            </coordenadas>
+            <coordenadas lat="43.146728" lon="-6.531578">
+                <altura>423.837</altura>
+            </coordenadas>
+            <coordenadas lat="43.137462" lon="-6.525024">
+                <altura>430.898</altura>
+            </coordenadas>
+            <coordenadas lat="43.126125" lon="-6.525302">
+                <altura>444.331</altura>
+            </coordenadas>
+            <coordenadas lat="43.097526" lon="-6.534168">
+                <altura>503.547</altura>
+            </coordenadas>
+            <coordenadas lat="43.093079" lon="-6.530836">
+                <altura>500.129</altura>
+            </coordenadas>
+            <coordenadas lat="43.087759" lon="-6.535781">
+                <altura>566.921</altura>
+            </coordenadas>
+            <coordenadas lat="43.081160" lon="-6.548651">
+                <altura>598.508</altura>
+            </coordenadas>
+            <coordenadas lat="43.069550" lon="-6.541940">
+                <altura>658.119</altura>
+            </coordenadas>
+            <coordenadas lat="43.064093" lon="-6.535250">
+                <altura>697.161</altura>
+            </coordenadas>
+            <coordenadas lat="43.063340" lon="-6.531147">
+                <altura>707.145</altura>
+            </coordenadas>
+            <coordenadas lat="43.064895" lon="-6.528162">
+                <altura>737.212</altura>
+            </coordenadas>
+            <coordenadas lat="43.062310" lon="-6.519468">
+                <altura>748.854</altura>
+            </coordenadas>
+            <coordenadas lat="43.064185" lon="-6.509970">
+                <altura>791.946</altura>
+            </coordenadas>
+            <coordenadas lat="43.061839" lon="-6.507992">
+                <altura>791.697</altura>
+            </coordenadas>
+            <coordenadas lat="43.060867" lon="-6.502524">
+                <altura>812.060</altura>
+            </coordenadas>
+            <coordenadas lat="43.062589" lon="-6.496283">
+                <altura>863.449</altura>
+            </coordenadas>
+            <coordenadas lat="43.060834" lon="-6.496082">
+                <altura>853.702</altura>
+            </coordenadas>
+            <coordenadas lat="43.060553" lon="-6.485669">
+                <altura>922.022</altura>
+            </coordenadas>
+            <coordenadas lat="43.058798" lon="-6.485198">
+                <altura>901.308</altura>
+            </coordenadas>
+            <coordenadas lat="43.060255" lon="-6.481912">
+                <altura>931.839</altura>
+            </coordenadas>
+            <coordenadas lat="43.053583" lon="-6.476728">
+                <altura>969.161</altura>
+            </coordenadas>
+            <coordenadas lat="43.052913" lon="-6.473232">
+                <altura>994.245</altura>
+            </coordenadas>
+            <coordenadas lat="43.040732" lon="-6.461219">
+                <altura>1074.212</altura>
+            </coordenadas>
+            <coordenadas lat="43.039377" lon="-6.462445">
+                <altura>1074.934</altura>
+            </coordenadas>
+            <coordenadas lat="43.032014" lon="-6.457918">
+                <altura>1106.616</altura>
+            </coordenadas>
+            <coordenadas lat="43.037772" lon="-6.460250">
+                <altura>1154.787</altura>
+            </coordenadas>
+            <coordenadas lat="43.043335" lon="-6.455713">
+                <altura>1182.830</altura>
+            </coordenadas>
+            <coordenadas lat="43.041896" lon="-6.458021">
+                <altura>1202.231</altura>
+            </coordenadas>
+            <coordenadas lat="43.035747" lon="-6.456178">
+                <altura>1236.761</altura>
+            </coordenadas>
+            <coordenadas lat="43.025691" lon="-6.447479">
+                <altura>1311.607</altura>
+            </coordenadas>
+            <coordenadas lat="43.021355" lon="-6.450159">
+                <altura>1332.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.013322" lon="-6.449007">
+                <altura>1371.898</altura>
+            </coordenadas>
+            <coordenadas lat="43.012813" lon="-6.445166">
+                <altura>1393.590</altura>
+            </coordenadas>
+            <coordenadas lat="43.009380" lon="-6.443112">
+                <altura>1408.154</altura>
+            </coordenadas>
+            <coordenadas lat="43.007492" lon="-6.434406">
+                <altura>1453.771</altura>
+            </coordenadas>
+            <coordenadas lat="42.993956" lon="-6.411101">
+                <altura>1505.673</altura>
+            </coordenadas>
+            <coordenadas lat="42.980888" lon="-6.405743">
+                <altura>1441.395</altura>
+            </coordenadas>
+            <coordenadas lat="42.982142" lon="-6.403350">
+                <altura>1433.496</altura>
+            </coordenadas>
+            <coordenadas lat="42.974133" lon="-6.399753">
+                <altura>1374.439</altura>
+            </coordenadas>
+            <coordenadas lat="42.970269" lon="-6.390494">
+                <altura>1325.739</altura>
+            </coordenadas>
+            <coordenadas lat="42.972445" lon="-6.399651">
+                <altura>1299.301</altura>
+            </coordenadas>
+            <coordenadas lat="42.967198" lon="-6.384964">
+                <altura>1209.621</altura>
+            </coordenadas>
+            <coordenadas lat="42.969188" lon="-6.382295">
+                <altura>1208.008</altura>
+            </coordenadas>
+            <coordenadas lat="42.963909" lon="-6.383122">
+                <altura>1166.668</altura>
+            </coordenadas>
+            <coordenadas lat="42.953713" lon="-6.370799">
+                <altura>1078.970</altura>
+            </coordenadas>
+            <coordenadas lat="42.956919" lon="-6.375550">
+                <altura>1058.674</altura>
+            </coordenadas>
+            <coordenadas lat="42.950580" lon="-6.369743">
+                <altura>1023.241</altura>
+            </coordenadas>
+            <coordenadas lat="42.945435" lon="-6.345253">
+                <altura>977.833</altura>
+            </coordenadas>
+            <coordenadas lat="42.938915" lon="-6.339437">
+                <altura>966.425</altura>
+            </coordenadas>
+            <coordenadas lat="42.934106" lon="-6.323515">
+                <altura>962.136</altura>
+            </coordenadas>
+            <coordenadas lat="42.932214" lon="-6.322636">
+                <altura>963.079</altura>
+            </coordenadas>
+            <coordenadas lat="42.921032" lon="-6.333133">
+                <altura>961.528</altura>
+            </coordenadas>
+            <coordenadas lat="42.915608" lon="-6.334458">
+                <altura>967.289</altura>
+            </coordenadas>
+            <coordenadas lat="42.912476" lon="-6.341061">
+                <altura>972.017</altura>
+            </coordenadas>
+            <coordenadas lat="42.907127" lon="-6.345885">
+                <altura>989.408</altura>
+            </coordenadas>
+            <coordenadas lat="42.906253" lon="-6.352188">
+                <altura>955.737</altura>
+            </coordenadas>
+            <coordenadas lat="42.907988" lon="-6.357449">
+                <altura>924.479</altura>
+            </coordenadas>
+            <coordenadas lat="42.896883" lon="-6.375703">
+                <altura>927.053</altura>
+            </coordenadas>
+            <coordenadas lat="42.895704" lon="-6.389726">
+                <altura>903.130</altura>
+            </coordenadas>
+            <coordenadas lat="42.892949" lon="-6.393609">
+                <altura>894.922</altura>
+            </coordenadas>
+            <coordenadas lat="42.893712" lon="-6.398623">
+                <altura>900.884</altura>
+            </coordenadas>
+            <coordenadas lat="42.885981" lon="-6.419806">
+                <altura>917.735</altura>
+            </coordenadas>
+            <coordenadas lat="42.878782" lon="-6.422335">
+                <altura>920.158</altura>
+            </coordenadas>
+            <coordenadas lat="42.875730" lon="-6.433010">
+                <altura>872.716</altura>
+            </coordenadas>
+            <coordenadas lat="42.874177" lon="-6.449617">
+                <altura>845.476</altura>
+            </coordenadas>
+            <coordenadas lat="42.871943" lon="-6.451662">
+                <altura>847.913</altura>
+            </coordenadas>
+            <coordenadas lat="42.866705" lon="-6.449724">
+                <altura>841.208</altura>
+            </coordenadas>
+            <coordenadas lat="42.850434" lon="-6.463997">
+                <altura>824.016</altura>
+            </coordenadas>
+            <coordenadas lat="42.843816" lon="-6.465500">
+                <altura>809.328</altura>
+            </coordenadas>
+            <coordenadas lat="42.844596" lon="-6.470864">
+                <altura>814.272</altura>
+            </coordenadas>
+            <coordenadas lat="42.841201" lon="-6.473801">
+                <altura>802.029</altura>
+            </coordenadas>
+            <coordenadas lat="42.835023" lon="-6.489607">
+                <altura>793.721</altura>
+            </coordenadas>
+            <coordenadas lat="42.831066" lon="-6.491755">
+                <altura>782.453</altura>
+            </coordenadas>
+            <coordenadas lat="42.829546" lon="-6.498209">
+                <altura>791.574</altura>
+            </coordenadas>
+            <coordenadas lat="42.820384" lon="-6.509384">
+                <altura>763.937</altura>
+            </coordenadas>
+            <coordenadas lat="42.821186" lon="-6.513041">
+                <altura>791.933</altura>
+            </coordenadas>
+            <coordenadas lat="42.827633" lon="-6.519007">
+                <altura>869.023</altura>
+            </coordenadas>
+            <coordenadas lat="42.821251" lon="-6.516195">
+                <altura>909.015</altura>
+            </coordenadas>
+            <coordenadas lat="42.818731" lon="-6.518170">
+                <altura>924.808</altura>
+            </coordenadas>
+            <coordenadas lat="42.817309" lon="-6.533023">
+                <altura>974.728</altura>
+            </coordenadas>
+            <coordenadas lat="42.812961" lon="-6.531935">
+                <altura>998.560</altura>
+            </coordenadas>
+            <coordenadas lat="42.809720" lon="-6.545771">
+                <altura>953.024</altura>
+            </coordenadas>
+            <coordenadas lat="42.810968" lon="-6.550392">
+                <altura>950.451</altura>
+            </coordenadas>
+            <coordenadas lat="42.807459" lon="-6.559675">
+                <altura>932.923</altura>
+            </coordenadas>
+            <coordenadas lat="42.807758" lon="-6.568669">
+                <altura>933.715</altura>
+            </coordenadas>
+            <coordenadas lat="42.796943" lon="-6.589366">
+                <altura>997.616</altura>
+            </coordenadas>
+            <coordenadas lat="42.787894" lon="-6.595005">
+                <altura>954.399</altura>
+            </coordenadas>
+            <coordenadas lat="42.782343" lon="-6.583035">
+                <altura>883.173</altura>
+            </coordenadas>
+            <coordenadas lat="42.779845" lon="-6.583866">
+                <altura>857.085</altura>
+            </coordenadas>
+            <coordenadas lat="42.781506" lon="-6.588503">
+                <altura>830.113</altura>
+            </coordenadas>
+            <coordenadas lat="42.779372" lon="-6.602174">
+                <altura>810.308</altura>
+            </coordenadas>
+            <coordenadas lat="42.784249" lon="-6.611059">
+                <altura>793.392</altura>
+            </coordenadas>
+            <coordenadas lat="42.774329" lon="-6.618914">
+                <altura>733.194</altura>
+            </coordenadas>
+            <coordenadas lat="42.775151" lon="-6.623637">
+                <altura>733.558</altura>
+            </coordenadas>
+            <coordenadas lat="42.767416" lon="-6.625747">
+                <altura>694.335</altura>
+            </coordenadas>
+            <coordenadas lat="42.764618" lon="-6.631159">
+                <altura>680.477</altura>
+            </coordenadas>
+            <coordenadas lat="42.754137" lon="-6.637321">
+                <altura>651.449</altura>
+            </coordenadas>
+            <coordenadas lat="42.747358" lon="-6.648741">
+                <altura>627.810</altura>
+            </coordenadas>
+            <coordenadas lat="42.750787" lon="-6.653674">
+                <altura>631.683</altura>
+            </coordenadas>
+            <coordenadas lat="42.754837" lon="-6.654719">
+                <altura>641.215</altura>
+            </coordenadas>
+            <coordenadas lat="42.762227" lon="-6.663961">
+                <altura>712.465</altura>
+            </coordenadas>
+            <coordenadas lat="42.763576" lon="-6.671624">
+                <altura>744.711</altura>
+            </coordenadas>
+            <coordenadas lat="42.765926" lon="-6.674381">
+                <altura>777.108</altura>
+            </coordenadas>
+            <coordenadas lat="42.766177" lon="-6.665923">
+                <altura>814.886</altura>
+            </coordenadas>
+            <coordenadas lat="42.768873" lon="-6.673302">
+                <altura>865.518</altura>
+            </coordenadas>
+            <coordenadas lat="42.770043" lon="-6.665553">
+                <altura>912.382</altura>
+            </coordenadas>
+            <coordenadas lat="42.772082" lon="-6.674535">
+                <altura>954.699</altura>
+            </coordenadas>
+            <coordenadas lat="42.777473" lon="-6.678594">
+                <altura>1006.441</altura>
+            </coordenadas>
+            <coordenadas lat="42.782266" lon="-6.688190">
+                <altura>1027.993</altura>
+            </coordenadas>
+            <coordenadas lat="42.785341" lon="-6.689101">
+                <altura>1001.424</altura>
+            </coordenadas>
+            <coordenadas lat="42.786100" lon="-6.686868">
+                <altura>990.397</altura>
+            </coordenadas>
+            <coordenadas lat="42.789164" lon="-6.689099">
+                <altura>959.612</altura>
+            </coordenadas>
+            <coordenadas lat="42.788602" lon="-6.686466">
+                <altura>950.432</altura>
+            </coordenadas>
+            <coordenadas lat="42.792964" lon="-6.687021">
+                <altura>908.405</altura>
+            </coordenadas>
+            <coordenadas lat="42.794945" lon="-6.683402">
+                <altura>886.508</altura>
+            </coordenadas>
+            <coordenadas lat="42.798390" lon="-6.684010">
+                <altura>852.216</altura>
+            </coordenadas>
+            <coordenadas lat="42.794883" lon="-6.691620">
+                <altura>819.618</altura>
+            </coordenadas>
+            <coordenadas lat="42.795657" lon="-6.696344">
+                <altura>816.522</altura>
+            </coordenadas>
+            <coordenadas lat="42.805387" lon="-6.701546">
+                <altura>831.469</altura>
+            </coordenadas>
+            <coordenadas lat="42.812860" lon="-6.711982">
+                <altura>851.091</altura>
+            </coordenadas>
+            <coordenadas lat="42.824470" lon="-6.742172">
+                <altura>924.013</altura>
+            </coordenadas>
+            <coordenadas lat="42.830551" lon="-6.748464">
+                <altura>946.344</altura>
+            </coordenadas>
+            <coordenadas lat="42.838917" lon="-6.764846">
+                <altura>981.997</altura>
+            </coordenadas>
+            <coordenadas lat="42.841313" lon="-6.763967">
+                <altura>975.294</altura>
+            </coordenadas>
+            <coordenadas lat="42.841741" lon="-6.771039">
+                <altura>984.457</altura>
+            </coordenadas>
+            <coordenadas lat="42.852305" lon="-6.789149">
+                <altura>1069.022</altura>
+            </coordenadas>
+            <coordenadas lat="42.855017" lon="-6.783442">
+                <altura>1123.908</altura>
+            </coordenadas>
+            <coordenadas lat="42.854223" lon="-6.787535">
+                <altura>1170.494</altura>
+            </coordenadas>
+            <coordenadas lat="42.858186" lon="-6.796168">
+                <altura>1272.196</altura>
+            </coordenadas>
+            <coordenadas lat="42.861494" lon="-6.798124">
+                <altura>1337.930</altura>
+            </coordenadas>
+            <coordenadas lat="42.860523" lon="-6.799929">
+                <altura>1349.157</altura>
+            </coordenadas>
+            <coordenadas lat="42.862181" lon="-6.799546">
+                <altura>1380.449</altura>
+            </coordenadas>
+            <coordenadas lat="42.861185" lon="-6.801381">
+                <altura>1393.961</altura>
+            </coordenadas>
+            <coordenadas lat="42.863026" lon="-6.805663">
+                <altura>1440.522</altura>
+            </coordenadas>
+            <coordenadas lat="42.863290" lon="-6.802521">
+                <altura>1467.575</altura>
+            </coordenadas>
+            <coordenadas lat="42.869910" lon="-6.815138">
+                <altura>1656.467</altura>
+            </coordenadas>
+            <coordenadas lat="42.867815" lon="-6.823899">
+                <altura>1616.481</altura>
+            </coordenadas>
+            <coordenadas lat="42.869765" lon="-6.820084">
+                <altura>1595.619</altura>
+            </coordenadas>
+            <coordenadas lat="42.873461" lon="-6.822940">
+                <altura>1528.408</altura>
+            </coordenadas>
+            <coordenadas lat="42.875025" lon="-6.828436">
+                <altura>1505.921</altura>
+            </coordenadas>
+            <coordenadas lat="42.880095" lon="-6.828013">
+                <altura>1470.423</altura>
+            </coordenadas>
+            <coordenadas lat="42.873619" lon="-6.830322">
+                <altura>1433.727</altura>
+            </coordenadas>
+            <coordenadas lat="42.870908" lon="-6.835906">
+                <altura>1406.084</altura>
+            </coordenadas>
+            <coordenadas lat="42.867426" lon="-6.834617">
+                <altura>1339.536</altura>
+            </coordenadas>
+            <coordenadas lat="42.868093" lon="-6.840861">
+                <altura>1271.798</altura>
+            </coordenadas>
+            <coordenadas lat="42.866846" lon="-6.839060">
+                <altura>1257.519</altura>
+            </coordenadas>
+            <coordenadas lat="42.867671" lon="-6.842032">
+                <altura>1234.622</altura>
+            </coordenadas>
+            <coordenadas lat="42.866212" lon="-6.840975">
+                <altura>1229.777</altura>
+            </coordenadas>
+            <coordenadas lat="42.864912" lon="-6.851982">
+                <altura>1137.061</altura>
+            </coordenadas>
+            <coordenadas lat="42.860334" lon="-6.854310">
+                <altura>1099.527</altura>
+            </coordenadas>
+            <coordenadas lat="42.865707" lon="-6.861527">
+                <altura>1105.008</altura>
+            </coordenadas>
+            <coordenadas lat="42.863173" lon="-6.861301">
+                <altura>1132.742</altura>
+            </coordenadas>
+            <coordenadas lat="42.864744" lon="-6.863167">
+                <altura>1154.074</altura>
+            </coordenadas>
+            <coordenadas lat="42.859169" lon="-6.865919">
+                <altura>1148.768</altura>
+            </coordenadas>
+            <coordenadas lat="42.857250" lon="-6.877158">
+                <altura>1118.255</altura>
+            </coordenadas>
+            <coordenadas lat="42.859255" lon="-6.865837">
+                <altura>1148.717</altura>
+            </coordenadas>
+            <coordenadas lat="42.864872" lon="-6.862971">
+                <altura>1150.879</altura>
+            </coordenadas>
+            <coordenadas lat="42.863220" lon="-6.861381">
+                <altura>1132.250</altura>
+            </coordenadas>
+            <coordenadas lat="42.865612" lon="-6.861586">
+                <altura>1106.843</altura>
+            </coordenadas>
+            <coordenadas lat="42.860247" lon="-6.855673">
+                <altura>1091.234</altura>
+            </coordenadas>
+            <coordenadas lat="42.865004" lon="-6.851797">
+                <altura>1137.955</altura>
+            </coordenadas>
+            <coordenadas lat="42.866209" lon="-6.840805">
+                <altura>1231.710</altura>
+            </coordenadas>
+            <coordenadas lat="42.867650" lon="-6.842104">
+                <altura>1232.508</altura>
+            </coordenadas>
+            <coordenadas lat="42.866866" lon="-6.839085">
+                <altura>1257.478</altura>
+            </coordenadas>
+            <coordenadas lat="42.868082" lon="-6.840800">
+                <altura>1272.260</altura>
+            </coordenadas>
+            <coordenadas lat="42.867427" lon="-6.834583">
+                <altura>1340.184</altura>
+            </coordenadas>
+            <coordenadas lat="42.871009" lon="-6.835921">
+                <altura>1411.281</altura>
+            </coordenadas>
+            <coordenadas lat="42.873632" lon="-6.830347">
+                <altura>1433.533</altura>
+            </coordenadas>
+            <coordenadas lat="42.878591" lon="-6.830340">
+                <altura>1454.875</altura>
+            </coordenadas>
+            <coordenadas lat="42.881589" lon="-6.824930">
+                <altura>1450.536</altura>
+            </coordenadas>
+            <coordenadas lat="42.879901" lon="-6.825547">
+                <altura>1430.589</altura>
+            </coordenadas>
+            <coordenadas lat="42.882223" lon="-6.821942">
+                <altura>1379.096</altura>
+            </coordenadas>
+            <coordenadas lat="42.880237" lon="-6.823054">
+                <altura>1352.731</altura>
+            </coordenadas>
+            <coordenadas lat="42.877011" lon="-6.819577">
+                <altura>1312.124</altura>
+            </coordenadas>
+            <coordenadas lat="42.884901" lon="-6.804934">
+                <altura>1129.608</altura>
+            </coordenadas>
+            <coordenadas lat="42.887853" lon="-6.805308">
+                <altura>1103.834</altura>
+            </coordenadas>
+            <coordenadas lat="42.894015" lon="-6.814018">
+                <altura>1064.366</altura>
+            </coordenadas>
+            <coordenadas lat="42.893693" lon="-6.816842">
+                <altura>1044.040</altura>
+            </coordenadas>
+            <coordenadas lat="42.900750" lon="-6.831095">
+                <altura>916.227</altura>
+            </coordenadas>
+            <coordenadas lat="42.911590" lon="-6.842523">
+                <altura>836.489</altura>
+            </coordenadas>
+            <coordenadas lat="42.912177" lon="-6.845898">
+                <altura>802.221</altura>
+            </coordenadas>
+            <coordenadas lat="42.920088" lon="-6.849553">
+                <altura>732.342</altura>
+            </coordenadas>
+            <coordenadas lat="42.923169" lon="-6.863041">
+                <altura>744.155</altura>
+            </coordenadas>
+            <coordenadas lat="42.929264" lon="-6.868337">
+                <altura>733.983</altura>
+            </coordenadas>
+            <coordenadas lat="42.922881" lon="-6.873247">
+                <altura>716.225</altura>
+            </coordenadas>
+            <coordenadas lat="42.926081" lon="-6.875424">
+                <altura>671.517</altura>
+            </coordenadas>
+            <coordenadas lat="42.929456" lon="-6.870650">
+                <altura>638.208</altura>
+            </coordenadas>
+            <coordenadas lat="42.930471" lon="-6.875252">
+                <altura>566.153</altura>
+            </coordenadas>
+            <coordenadas lat="42.931098" lon="-6.872307">
+                <altura>548.345</altura>
+            </coordenadas>
+            <coordenadas lat="42.934220" lon="-6.873747">
+                <altura>576.749</altura>
+            </coordenadas>
+            <coordenadas lat="42.956207" lon="-6.868439">
+                <altura>646.656</altura>
+            </coordenadas>
+            <coordenadas lat="42.953838" lon="-6.866163">
+                <altura>714.168</altura>
+            </coordenadas>
+            <coordenadas lat="42.949038" lon="-6.867208">
+                <altura>762.940</altura>
+            </coordenadas>
+            <coordenadas lat="42.950708" lon="-6.864304">
+                <altura>804.371</altura>
+            </coordenadas>
+            <coordenadas lat="42.943385" lon="-6.863035">
+                <altura>898.194</altura>
+            </coordenadas>
+            <coordenadas lat="42.939727" lon="-6.857971">
+                <altura>969.892</altura>
+            </coordenadas>
+            <coordenadas lat="42.939928" lon="-6.855081">
+                <altura>964.873</altura>
+            </coordenadas>
+            <coordenadas lat="42.935921" lon="-6.851956">
+                <altura>972.120</altura>
+            </coordenadas>
+            <coordenadas lat="42.937029" lon="-6.847961">
+                <altura>956.908</altura>
+            </coordenadas>
+            <coordenadas lat="42.944210" lon="-6.847915">
+                <altura>1021.714</altura>
+            </coordenadas>
+            <coordenadas lat="42.945043" lon="-6.840745">
+                <altura>1073.926</altura>
+            </coordenadas>
+            <coordenadas lat="42.942812" lon="-6.834534">
+                <altura>1137.520</altura>
+            </coordenadas>
+            <coordenadas lat="42.955963" lon="-6.834699">
+                <altura>1157.947</altura>
+            </coordenadas>
+            <coordenadas lat="42.956743" lon="-6.838036">
+                <altura>1155.679</altura>
+            </coordenadas>
+            <coordenadas lat="42.970672" lon="-6.847599">
+                <altura>1096.471</altura>
+            </coordenadas>
+            <coordenadas lat="42.974263" lon="-6.857971">
+                <altura>1051.912</altura>
+            </coordenadas>
+            <coordenadas lat="42.983351" lon="-6.859427">
+                <altura>936.675</altura>
+            </coordenadas>
+            <coordenadas lat="42.983401" lon="-6.853685">
+                <altura>860.175</altura>
+            </coordenadas>
+            <coordenadas lat="42.989233" lon="-6.857803">
+                <altura>764.528</altura>
+            </coordenadas>
+            <coordenadas lat="42.989704" lon="-6.854373">
+                <altura>696.020</altura>
+            </coordenadas>
+            <coordenadas lat="42.990202" lon="-6.856323">
+                <altura>685.408</altura>
+            </coordenadas>
+            <coordenadas lat="42.992104" lon="-6.852212">
+                <altura>592.112</altura>
+            </coordenadas>
+            <coordenadas lat="42.991541" lon="-6.848110">
+                <altura>549.194</altura>
+            </coordenadas>
+            <coordenadas lat="42.993514" lon="-6.851529">
+                <altura>513.748</altura>
+            </coordenadas>
+            <coordenadas lat="43.000661" lon="-6.846508">
+                <altura>539.425</altura>
+            </coordenadas>
+            <coordenadas lat="43.003790" lon="-6.848686">
+                <altura>511.317</altura>
+            </coordenadas>
+            <coordenadas lat="43.008632" lon="-6.847828">
+                <altura>445.439</altura>
+            </coordenadas>
+            <coordenadas lat="43.010265" lon="-6.851359">
+                <altura>412.230</altura>
+            </coordenadas>
+            <coordenadas lat="43.015677" lon="-6.849548">
+                <altura>329.273</altura>
+            </coordenadas>
+            <coordenadas lat="43.021145" lon="-6.852204">
+                <altura>290.611</altura>
+            </coordenadas>
+            <coordenadas lat="43.024969" lon="-6.857432">
+                <altura>288.521</altura>
+            </coordenadas>
+            <coordenadas lat="43.027663" lon="-6.866720">
+                <altura>309.603</altura>
+            </coordenadas>
+            <coordenadas lat="43.032068" lon="-6.871055">
+                <altura>292.008</altura>
+            </coordenadas>
+            <coordenadas lat="43.035394" lon="-6.871158">
+                <altura>293.026</altura>
+            </coordenadas>
+            <coordenadas lat="43.036161" lon="-6.875020">
+                <altura>319.538</altura>
+            </coordenadas>
+            <coordenadas lat="43.041190" lon="-6.871296">
+                <altura>300.812</altura>
+            </coordenadas>
+            <coordenadas lat="43.051082" lon="-6.871343">
+                <altura>273.259</altura>
+            </coordenadas>
+            <coordenadas lat="43.052580" lon="-6.874668">
+                <altura>259.521</altura>
+            </coordenadas>
+            <coordenadas lat="43.065040" lon="-6.876168">
+                <altura>328.563</altura>
+            </coordenadas>
+            <coordenadas lat="43.067017" lon="-6.865934">
+                <altura>387.714</altura>
+            </coordenadas>
+            <coordenadas lat="43.065222" lon="-6.860889">
+                <altura>412.067</altura>
+            </coordenadas>
+            <coordenadas lat="43.068416" lon="-6.849336">
+                <altura>383.697</altura>
+            </coordenadas>
+            <coordenadas lat="43.062026" lon="-6.842505">
+                <altura>382.823</altura>
+            </coordenadas>
+            <coordenadas lat="43.057089" lon="-6.830013">
+                <altura>383.225</altura>
+            </coordenadas>
+            <coordenadas lat="43.057256" lon="-6.817091">
+                <altura>505.008</altura>
+            </coordenadas>
+            <coordenadas lat="43.059733" lon="-6.827005">
+                <altura>569.694</altura>
+            </coordenadas>
+            <coordenadas lat="43.066787" lon="-6.830149">
+                <altura>642.516</altura>
+            </coordenadas>
+            <coordenadas lat="43.068174" lon="-6.824128">
+                <altura>665.520</altura>
+            </coordenadas>
+            <coordenadas lat="43.072431" lon="-6.824964">
+                <altura>675.047</altura>
+            </coordenadas>
+            <coordenadas lat="43.072406" lon="-6.820589">
+                <altura>692.539</altura>
+            </coordenadas>
+            <coordenadas lat="43.074780" lon="-6.820844">
+                <altura>693.121</altura>
+            </coordenadas>
+            <coordenadas lat="43.076268" lon="-6.816709">
+                <altura>720.012</altura>
+            </coordenadas>
+            <coordenadas lat="43.077441" lon="-6.819061">
+                <altura>718.835</altura>
+            </coordenadas>
+            <coordenadas lat="43.084224" lon="-6.811386">
+                <altura>799.958</altura>
+            </coordenadas>
+            <coordenadas lat="43.086316" lon="-6.814722">
+                <altura>828.852</altura>
+            </coordenadas>
+            <coordenadas lat="43.087734" lon="-6.810852">
+                <altura>873.417</altura>
+            </coordenadas>
+            <coordenadas lat="43.098824" lon="-6.809070">
+                <altura>989.508</altura>
+            </coordenadas>
+            <coordenadas lat="43.098479" lon="-6.806392">
+                <altura>1022.230</altura>
+            </coordenadas>
+            <coordenadas lat="43.102006" lon="-6.802600">
+                <altura>1068.852</altura>
+            </coordenadas>
+            <coordenadas lat="43.103195" lon="-6.804304">
+                <altura>1088.866</altura>
+            </coordenadas>
+            <coordenadas lat="43.101874" lon="-6.792729">
+                <altura>1138.933</altura>
+            </coordenadas>
+            <coordenadas lat="43.105270" lon="-6.791002">
+                <altura>1116.555</altura>
+            </coordenadas>
+            <coordenadas lat="43.105367" lon="-6.787093">
+                <altura>1119.247</altura>
+            </coordenadas>
+            <coordenadas lat="43.110566" lon="-6.778835">
+                <altura>1038.448</altura>
+            </coordenadas>
+            <coordenadas lat="43.109618" lon="-6.771456">
+                <altura>946.961</altura>
+            </coordenadas>
+            <coordenadas lat="43.104029" lon="-6.768569">
+                <altura>852.922</altura>
+            </coordenadas>
+            <coordenadas lat="43.100003" lon="-6.746336">
+                <altura>688.562</altura>
+            </coordenadas>
+            <coordenadas lat="43.097076" lon="-6.746596">
+                <altura>672.808</altura>
+            </coordenadas>
+            <coordenadas lat="43.093472" lon="-6.734974">
+                <altura>647.908</altura>
+            </coordenadas>
+            <coordenadas lat="43.097710" lon="-6.723791">
+                <altura>627.017</altura>
+            </coordenadas>
+            <coordenadas lat="43.096810" lon="-6.716604">
+                <altura>621.389</altura>
+            </coordenadas>
+            <coordenadas lat="43.098807" lon="-6.715489">
+                <altura>613.033</altura>
+            </coordenadas>
+            <coordenadas lat="43.097473" lon="-6.711216">
+                <altura>600.530</altura>
+            </coordenadas>
+            <coordenadas lat="43.099036" lon="-6.704201">
+                <altura>581.082</altura>
+            </coordenadas>
+            <coordenadas lat="43.101864" lon="-6.701991">
+                <altura>574.084</altura>
+            </coordenadas>
+            <coordenadas lat="43.101390" lon="-6.692885">
+                <altura>565.535</altura>
+            </coordenadas>
+            <coordenadas lat="43.105476" lon="-6.670254">
+                <altura>542.998</altura>
+            </coordenadas>
+            <coordenadas lat="43.107070" lon="-6.670904">
+                <altura>547.178</altura>
+            </coordenadas>
+            <coordenadas lat="43.107297" lon="-6.665534">
+                <altura>534.633</altura>
+            </coordenadas>
+            <coordenadas lat="43.111552" lon="-6.661786">
+                <altura>550.826</altura>
+            </coordenadas>
+            <coordenadas lat="43.110347" lon="-6.655304">
+                <altura>546.408</altura>
+            </coordenadas>
+            <coordenadas lat="43.107704" lon="-6.655814">
+                <altura>529.982</altura>
+            </coordenadas>
+            <coordenadas lat="43.104952" lon="-6.646187">
+                <altura>531.184</altura>
+            </coordenadas>
+            <coordenadas lat="43.107194" lon="-6.641046">
+                <altura>509.058</altura>
+            </coordenadas>
+            <coordenadas lat="43.114704" lon="-6.636613">
+                <altura>481.055</altura>
+            </coordenadas>
+            <coordenadas lat="43.120595" lon="-6.637298">
+                <altura>480.587</altura>
+            </coordenadas>
+            <coordenadas lat="43.126141" lon="-6.627200">
+                <altura>486.599</altura>
+            </coordenadas>
+            <coordenadas lat="43.126053" lon="-6.620889">
+                <altura>457.820</altura>
+            </coordenadas>
+            <coordenadas lat="43.129494" lon="-6.616517">
+                <altura>464.393</altura>
+            </coordenadas>
+            <coordenadas lat="43.130115" lon="-6.610471">
+                <altura>445.633</altura>
+            </coordenadas>
+            <coordenadas lat="43.132153" lon="-6.609758">
+                <altura>454.323</altura>
+            </coordenadas>
+            <coordenadas lat="43.138590" lon="-6.595581">
+                <altura>431.215</altura>
+            </coordenadas>
+            <coordenadas lat="43.140933" lon="-6.595071">
+                <altura>425.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.142509" lon="-6.590504">
+                <altura>435.718</altura>
+            </coordenadas>
+            <coordenadas lat="43.141485" lon="-6.588230">
+                <altura>412.010</altura>
+            </coordenadas>
+            <coordenadas lat="43.147997" lon="-6.579477">
+                <altura>415.224</altura>
+            </coordenadas>
+            <coordenadas lat="43.148203" lon="-6.572846">
+                <altura>404.011</altura>
+            </coordenadas>
+            <coordenadas lat="43.152164" lon="-6.572073">
+                <altura>420.463</altura>
+            </coordenadas>
+            <coordenadas lat="43.152560" lon="-6.566799">
+                <altura>391.965</altura>
+            </coordenadas>
+            <coordenadas lat="43.156956" lon="-6.564953">
+                <altura>406.026</altura>
+            </coordenadas>
+            <coordenadas lat="43.158941" lon="-6.561331">
+                <altura>391.549</altura>
+            </coordenadas>
+            <coordenadas lat="43.161184" lon="-6.563193">
+                <altura>393.434</altura>
+            </coordenadas>
+            <coordenadas lat="43.172056" lon="-6.559868">
+                <altura>387.055</altura>
+            </coordenadas>
+            <coordenadas lat="43.173730" lon="-6.552231">
+                <altura>367.910</altura>
+            </coordenadas>
+            <coordenadas lat="43.177416" lon="-6.552880">
+                <altura>365.908</altura>
+            </coordenadas>
+            <coordenadas lat="43.181875" lon="-6.545436">
+                <altura>371.768</altura>
+            </coordenadas>
+            <coordenadas lat="43.185504" lon="-6.543838">
+                <altura>365.880</altura>
+            </coordenadas>
+            <coordenadas lat="43.192887" lon="-6.545580">
+                <altura>348.834</altura>
+            </coordenadas>
+            <coordenadas lat="43.201241" lon="-6.538082">
+                <altura>352.111</altura>
+            </coordenadas>
+            <coordenadas lat="43.201115" lon="-6.529276">
+                <altura>358.253</altura>
+            </coordenadas>
+            <coordenadas lat="43.205278" lon="-6.531081">
+                <altura>342.525</altura>
+            </coordenadas>
+            <coordenadas lat="43.208058" lon="-6.526462">
+                <altura>350.496</altura>
+            </coordenadas>
+            <coordenadas lat="43.209845" lon="-6.528103">
+                <altura>345.759</altura>
+            </coordenadas>
+            <coordenadas lat="43.216842" lon="-6.522829">
+                <altura>365.668</altura>
+            </coordenadas>
+            <coordenadas lat="43.224774" lon="-6.526340">
+                <altura>361.342</altura>
+            </coordenadas>
+            <coordenadas lat="43.230391" lon="-6.523157">
+                <altura>339.226</altura>
+            </coordenadas>
+            <coordenadas lat="43.231052" lon="-6.517067">
+                <altura>318.508</altura>
+            </coordenadas>
+            <coordenadas lat="43.236278" lon="-6.515688">
+                <altura>341.641</altura>
+            </coordenadas>
+            <coordenadas lat="43.237918" lon="-6.509101">
+                <altura>312.923</altura>
+            </coordenadas>
+            <coordenadas lat="43.242858" lon="-6.505885">
+                <altura>319.257</altura>
+            </coordenadas>
+            <coordenadas lat="43.242151" lon="-6.502196">
+                <altura>312.644</altura>
+            </coordenadas>
+            <coordenadas lat="43.245203" lon="-6.493760">
+                <altura>308.046</altura>
+            </coordenadas>
+            <coordenadas lat="43.243851" lon="-6.489676">
+                <altura>308.418</altura>
+            </coordenadas>
+            <coordenadas lat="43.251833" lon="-6.481768">
+                <altura>301.729</altura>
+            </coordenadas>
+            <coordenadas lat="43.254250" lon="-6.484370">
+                <altura>314.922</altura>
+            </coordenadas>
+            <coordenadas lat="43.255176" lon="-6.477983">
+                <altura>298.898</altura>
+            </coordenadas>
+            <coordenadas lat="43.257404" lon="-6.477399">
+                <altura>312.115</altura>
+            </coordenadas>
+            <coordenadas lat="43.258484" lon="-6.466865">
+                <altura>284.126</altura>
+            </coordenadas>
+            <coordenadas lat="43.265527" lon="-6.454983">
+                <altura>275.308</altura>
+            </coordenadas>
+            <coordenadas lat="43.268170" lon="-6.456236">
+                <altura>297.174</altura>
+            </coordenadas>
+            <coordenadas lat="43.273112" lon="-6.449970">
+                <altura>267.286</altura>
+            </coordenadas>
+            <coordenadas lat="43.280225" lon="-6.449967">
+                <altura>293.130</altura>
+            </coordenadas>
+            <coordenadas lat="43.277745" lon="-6.443077">
+                <altura>259.497</altura>
+            </coordenadas>
+            <coordenadas lat="43.281699" lon="-6.434850">
+                <altura>274.159</altura>
+            </coordenadas>
+            <coordenadas lat="43.284831" lon="-6.435020">
+                <altura>316.571</altura>
+            </coordenadas>
+            <coordenadas lat="43.284689" lon="-6.432088">
+                <altura>262.182</altura>
+            </coordenadas>
+            <coordenadas lat="43.289059" lon="-6.434853">
+                <altura>273.575</altura>
+            </coordenadas>
+            <coordenadas lat="43.292052" lon="-6.430734">
+                <altura>242.795</altura>
+            </coordenadas>
+            <coordenadas lat="43.297836" lon="-6.429811">
+                <altura>240.049</altura>
+            </coordenadas>
+            <coordenadas lat="43.296375" lon="-6.422150">
+                <altura>232.823</altura>
+            </coordenadas>
+            <coordenadas lat="43.293609" lon="-6.418301">
+                <altura>236.808</altura>
+            </coordenadas>
+            <coordenadas lat="43.295111" lon="-6.413996">
+                <altura>247.714</altura>
+            </coordenadas>
+            <coordenadas lat="43.289569" lon="-6.410344">
+                <altura>225.476</altura>
+            </coordenadas>
+            <coordenadas lat="43.294430" lon="-6.403593">
+                <altura>238.690</altura>
+            </coordenadas>
+            <coordenadas lat="43.292467" lon="-6.398651">
+                <altura>222.647</altura>
+            </coordenadas>
+            <coordenadas lat="43.295379" lon="-6.387748">
+                <altura>236.479</altura>
+            </coordenadas>
+            <coordenadas lat="43.292076" lon="-6.368633">
+                <altura>235.021</altura>
+            </coordenadas>
+            <coordenadas lat="43.289693" lon="-6.366239">
+                <altura>223.252</altura>
+            </coordenadas>
+            <coordenadas lat="43.290947" lon="-6.355212">
+                <altura>227.985</altura>
+            </coordenadas>
+            <coordenadas lat="43.293501" lon="-6.351944">
+                <altura>239.266</altura>
+            </coordenadas>
+            <coordenadas lat="43.295834" lon="-6.342117">
+                <altura>231.629</altura>
+            </coordenadas>
+            <coordenadas lat="43.299631" lon="-6.339956">
+                <altura>224.621</altura>
+            </coordenadas>
+            <coordenadas lat="43.300299" lon="-6.324538">
+                <altura>226.308</altura>
+            </coordenadas>
+            <coordenadas lat="43.304500" lon="-6.319690">
+                <altura>272.191</altura>
+            </coordenadas>
+            <coordenadas lat="43.307651" lon="-6.319753">
+                <altura>296.743</altura>
+            </coordenadas>
+            <coordenadas lat="43.312792" lon="-6.311491">
+                <altura>290.097</altura>
+            </coordenadas>
+            <coordenadas lat="43.320581" lon="-6.305914">
+                <altura>240.754</altura>
+            </coordenadas>
+            <coordenadas lat="43.324900" lon="-6.296797">
+                <altura>164.456</altura>
+            </coordenadas>
+            <coordenadas lat="43.331261" lon="-6.293211">
+                <altura>160.958</altura>
+            </coordenadas>
+            <coordenadas lat="43.339655" lon="-6.296506">
+                <altura>176.819</altura>
+            </coordenadas>
+            <coordenadas lat="43.342954" lon="-6.288988">
+                <altura>147.032</altura>
+            </coordenadas>
+            <coordenadas lat="43.358176" lon="-6.282380">
+                <altura>147.556</altura>
+            </coordenadas>
+            <coordenadas lat="43.361245" lon="-6.261000">
+                <altura>139.259</altura>
+            </coordenadas>
+            <coordenadas lat="43.358796" lon="-6.249810">
+                <altura>117.214</altura>
+            </coordenadas>
+            <coordenadas lat="43.367118" lon="-6.226642">
+                <altura>122.508</altura>
+            </coordenadas>
+            <coordenadas lat="43.352195" lon="-6.202514">
+                <altura>99.380</altura>
+            </coordenadas>
+            <coordenadas lat="43.350890" lon="-6.194410">
+                <altura>94.122</altura>
+            </coordenadas>
+            <coordenadas lat="43.355502" lon="-6.174487">
+                <altura>95.766</altura>
+            </coordenadas>
+            <coordenadas lat="43.355156" lon="-6.169020">
+                <altura>89.583</altura>
+            </coordenadas>
+            <coordenadas lat="43.361268" lon="-6.156870">
+                <altura>76.165</altura>
+            </coordenadas>
+            <coordenadas lat="43.372158" lon="-6.149839">
+                <altura>69.737</altura>
+            </coordenadas>
+            <coordenadas lat="43.380198" lon="-6.154604">
+                <altura>66.088</altura>
+            </coordenadas>
+            <coordenadas lat="43.393286" lon="-6.154101">
+                <altura>69.111</altura>
+            </coordenadas>
+            <coordenadas lat="43.395288" lon="-6.149953">
+                <altura>96.884</altura>
+            </coordenadas>
+            <coordenadas lat="43.392422" lon="-6.137801">
+                <altura>163.907</altura>
+            </coordenadas>
+            <coordenadas lat="43.395632" lon="-6.138630">
+                <altura>172.717</altura>
+            </coordenadas>
+            <coordenadas lat="43.383155" lon="-6.123181">
+                <altura>359.008</altura>
+            </coordenadas>
+            <coordenadas lat="43.383098" lon="-6.113664">
+                <altura>269.433</altura>
+            </coordenadas>
+            <coordenadas lat="43.385980" lon="-6.106190">
+                <altura>219.325</altura>
+            </coordenadas>
+            <coordenadas lat="43.385550" lon="-6.099839">
+                <altura>197.849</altura>
+            </coordenadas>
+            <coordenadas lat="43.379181" lon="-6.086788">
+                <altura>107.716</altura>
+            </coordenadas>
+            <coordenadas lat="43.379246" lon="-6.059595">
+                <altura>82.518</altura>
+            </coordenadas>
+            <coordenadas lat="43.381262" lon="-6.056538">
+                <altura>102.750</altura>
+            </coordenadas>
+            <coordenadas lat="43.391812" lon="-6.052654">
+                <altura>80.321</altura>
+            </coordenadas>
+            <coordenadas lat="43.393859" lon="-6.048441">
+                <altura>121.154</altura>
+            </coordenadas>
+            <coordenadas lat="43.395141" lon="-6.034231">
+                <altura>116.442</altura>
+            </coordenadas>
+            <coordenadas lat="43.386498" lon="-6.002023">
+                <altura>70.322</altura>
+            </coordenadas>
+            <coordenadas lat="43.378957" lon="-5.994563">
+                <altura>142.114</altura>
+            </coordenadas>
+            <coordenadas lat="43.372062" lon="-5.974257">
+                <altura>119.308</altura>
+            </coordenadas>
+            <coordenadas lat="43.372387" lon="-5.957999">
+                <altura>114.469</altura>
+            </coordenadas>
+            <coordenadas lat="43.369399" lon="-5.953300">
+                <altura>120.971</altura>
+            </coordenadas>
+            <coordenadas lat="43.363279" lon="-5.950250">
+                <altura>137.565</altura>
+            </coordenadas>
+            <coordenadas lat="43.355065" lon="-5.937683">
+                <altura>168.152</altura>
+            </coordenadas>
+            <coordenadas lat="43.352429" lon="-5.928621">
+                <altura>170.644</altura>
+            </coordenadas>
+            <coordenadas lat="43.353313" lon="-5.914746">
+                <altura>187.146</altura>
+            </coordenadas>
+            <coordenadas lat="43.346499" lon="-5.898489">
+                <altura>246.777</altura>
+            </coordenadas>
+            <coordenadas lat="43.344767" lon="-5.900662">
+                <altura>253.250</altura>
+            </coordenadas>
+            <coordenadas lat="43.347776" lon="-5.891401">
+                <altura>277.093</altura>
+            </coordenadas>
+            <coordenadas lat="43.345968" lon="-5.889974">
+                <altura>298.065</altura>
+            </coordenadas>
+            <coordenadas lat="43.348114" lon="-5.879882">
+                <altura>328.921</altura>
+            </coordenadas>
+            <coordenadas lat="43.351502" lon="-5.877848">
+                <altura>334.708</altura>
+            </coordenadas>
+            <coordenadas lat="43.353442" lon="-5.868562">
+                <altura>303.034</altura>
+            </coordenadas>
+            <coordenadas lat="43.348730" lon="-5.867199">
+                <altura>259.496</altura>
+            </coordenadas>
+            <coordenadas lat="43.351934" lon="-5.864956">
+                <altura>256.080</altura>
+            </coordenadas>
+            <coordenadas lat="43.351916" lon="-5.859207">
+                <altura>238.187</altura>
+            </coordenadas>
+        </coordenadasRuta>
+        <Hitos>
+            <Hito nombre="La Carbayeda">
+                <Descripcion>pueblo asturiano</Descripcion>
+                <Localizacion pais="Espana">
+                    <Ciudad>La Carbayeda</Ciudad>
+                    <direccion>Asturias</direccion>
+                    <coordenadas lat="43.379141" lon="-5.994459">
+                        <altura>170.343</altura>
+                    </coordenadas>
+                </Localizacion>
+                <distancia-hito-anterior unidad="kms" tiempo="0.3">0</distancia-hito-anterior>
+                <Galeria-img><img type="jpg">multimedia/Ruta2-hito1.JPG</img></Galeria-img>
+                <Galeria-video><video type="enlace">multimedia/asturias.mp4</video></Galeria-video>
+            </Hito>
+            <Hito nombre="Juan Bautista">
+                <Descripcion>iglesia muy guapa</Descripcion>
+                <Localizacion pais="Espana">
+                    <Ciudad>La Carbayeda</Ciudad>
+                    <direccion>Asturias
+                    </direccion>
+                    <coordenadas lat="42.838917" lon="-6.764846">
+                        <altura>981.997</altura>
+                    </coordenadas>
+                </Localizacion>
+                <distancia-hito-anterior unidad="kms" tiempo="0.3">150</distancia-hito-anterior>
+                <Galeria-img><img type="jpg">multimedia/Ruta2-hito2.JPG</img></Galeria-img>
+                <Galeria-video><video type="enlace">multimedia/asturias.mp4</video></Galeria-video>
+            </Hito>
+            <Hito nombre="Puente la Regla">
+                <Descripcion>descripcion</Descripcion>
+                <Localizacion pais="Espana">
+                    <Ciudad>La Regla</Ciudad>
+                    <direccion>Leon</direccion>
+                    <coordenadas lat="43.138590" lon="-6.595581">
+                        <altura>431.215</altura>
+                    </coordenadas>
+                </Localizacion>
+                <distancia-hito-anterior unidad="kms" tiempo="4">78</distancia-hito-anterior>
+                <Galeria-img><img type="jpg">multimedia/Ruta2-hito3.JPG</img></Galeria-img>
+                <Galeria-video><video type="mpp4">multimedia/asturias.mp4</video></Galeria-video>
+            </Hito>
+        </Hitos>
+    </RutaTuristica>
+
+    <RutaTuristica nombre="Ruta Oviedo-Angliru" tipo="Montanera" dificaultad="Alta" puntuacion="10" Agencia="Agencia 3">
+        <Duracion>
+            <fecha type-date="dd-mm-yy">01-01-20</fecha>
+            <hora type-hour="hh:mm">00:00</hora>
+            <tiempo unidad="hours">8</tiempo>
+        </Duracion>
+        <Descripcion>Ruta de Angliru</Descripcion>
+        <Recomendaciones>
+            <recomendacion>Recomendado para moteros de montana</recomendacion>
+        </Recomendaciones>
+        <Localizacion pais="Espana">
+            <Ciudad>Oviedo</Ciudad>
+            <direccion>Calle Angel Muniz Toca, 33006 Oviedo, Asturias</direccion>
+            <coordenadas lat="43.354183" lon="-5.856657">
+                <altura>236.048</altura>
+            </coordenadas>
+        </Localizacion>
+        <Referencias>
+            <referencia>http://www.lne.com</referencia>
+        </Referencias>
+        <coordenadasRuta>
+            <coordenadas lat="43.354183" lon="-5.856657">
+                <altura>236.048</altura>
+            </coordenadas>
+            <coordenadas lat="43.352931" lon="-5.856550">
+                <altura>229.661</altura>
+            </coordenadas>
+            <coordenadas lat="43.352630" lon="-5.856636">
+                <altura>230.217</altura>
+            </coordenadas>
+            <coordenadas lat="43.352566" lon="-5.856872">
+                <altura>230.808</altura>
+            </coordenadas>
+            <coordenadas lat="43.352201" lon="-5.856614">
+                <altura>229.058</altura>
+            </coordenadas>
+            <coordenadas lat="43.349926" lon="-5.857687">
+                <altura>225.190</altura>
+            </coordenadas>
+            <coordenadas lat="43.348961" lon="-5.858567">
+                <altura>224.086</altura>
+            </coordenadas>
+            <coordenadas lat="43.343189" lon="-5.866463">
+                <altura>205.868</altura>
+            </coordenadas>
+            <coordenadas lat="43.341064" lon="-5.868587">
+                <altura>202.598</altura>
+            </coordenadas>
+            <coordenadas lat="43.339477" lon="-5.869703">
+                <altura>202.847</altura>
+            </coordenadas>
+            <coordenadas lat="43.338168" lon="-5.870218">
+                <altura>200.187</altura>
+            </coordenadas>
+            <coordenadas lat="43.332438" lon="-5.870883">
+                <altura>199.127</altura>
+            </coordenadas>
+            <coordenadas lat="43.332117" lon="-5.871162">
+                <altura>200.993</altura>
+            </coordenadas>
+            <coordenadas lat="43.332009" lon="-5.871484">
+                <altura>203.365</altura>
+            </coordenadas>
+            <coordenadas lat="43.331387" lon="-5.871956">
+                <altura>203.021</altura>
+            </coordenadas>
+            <coordenadas lat="43.330722" lon="-5.874317">
+                <altura>195.608</altura>
+            </coordenadas>
+            <coordenadas lat="43.330185" lon="-5.875218">
+                <altura>194.093</altura>
+            </coordenadas>
+            <coordenadas lat="43.329177" lon="-5.876055">
+                <altura>185.065</altura>
+            </coordenadas>
+            <coordenadas lat="43.327117" lon="-5.876956">
+                <altura>203.351</altura>
+            </coordenadas>
+            <coordenadas lat="43.326731" lon="-5.877063">
+                <altura>208.643</altura>
+            </coordenadas>
+            <coordenadas lat="43.325658" lon="-5.876977">
+                <altura>213.153</altura>
+            </coordenadas>
+            <coordenadas lat="43.324542" lon="-5.876334">
+                <altura>218.652</altura>
+            </coordenadas>
+            <coordenadas lat="43.324070" lon="-5.875862">
+                <altura>218.582</altura>
+            </coordenadas>
+            <coordenadas lat="43.323662" lon="-5.875175">
+                <altura>215.382</altura>
+            </coordenadas>
+            <coordenadas lat="43.322139" lon="-5.871935">
+                <altura>207.996</altura>
+            </coordenadas>
+            <coordenadas lat="43.321602" lon="-5.871184">
+                <altura>205.631</altura>
+            </coordenadas>
+            <coordenadas lat="43.320894" lon="-5.870776">
+                <altura>199.724</altura>
+            </coordenadas>
+            <coordenadas lat="43.319392" lon="-5.870519">
+                <altura>192.408</altura>
+            </coordenadas>
+            <coordenadas lat="43.316710" lon="-5.868437">
+                <altura>178.123</altura>
+            </coordenadas>
+            <coordenadas lat="43.315680" lon="-5.868287">
+                <altura>173.265</altura>
+            </coordenadas>
+            <coordenadas lat="43.311818" lon="-5.869231">
+                <altura>148.771</altura>
+            </coordenadas>
+            <coordenadas lat="43.311689" lon="-5.869510">
+                <altura>148.263</altura>
+            </coordenadas>
+            <coordenadas lat="43.311474" lon="-5.869339">
+                <altura>146.923</altura>
+            </coordenadas>
+            <coordenadas lat="43.311260" lon="-5.869403">
+                <altura>146.662</altura>
+            </coordenadas>
+            <coordenadas lat="43.310723" lon="-5.869725">
+                <altura>142.662</altura>
+            </coordenadas>
+            <coordenadas lat="43.310337" lon="-5.870197">
+                <altura>138.592</altura>
+            </coordenadas>
+            <coordenadas lat="43.309693" lon="-5.871549">
+                <altura>133.175</altura>
+            </coordenadas>
+            <coordenadas lat="43.309629" lon="-5.872171">
+                <altura>131.328</altura>
+            </coordenadas>
+            <coordenadas lat="43.309371" lon="-5.872300">
+                <altura>132.920</altura>
+            </coordenadas>
+            <coordenadas lat="43.308556" lon="-5.873759">
+                <altura>134.408</altura>
+            </coordenadas>
+            <coordenadas lat="43.306882" lon="-5.874982">
+                <altura>134.351</altura>
+            </coordenadas>
+            <coordenadas lat="43.306582" lon="-5.875390">
+                <altura>132.493</altura>
+            </coordenadas>
+            <coordenadas lat="43.303728" lon="-5.880733">
+                <altura>131.369</altura>
+            </coordenadas>
+            <coordenadas lat="43.303277" lon="-5.881162">
+                <altura>131.941</altura>
+            </coordenadas>
+            <coordenadas lat="43.301411" lon="-5.882277">
+                <altura>133.021</altura>
+            </coordenadas>
+            <coordenadas lat="43.299844" lon="-5.882857">
+                <altura>134.040</altura>
+            </coordenadas>
+            <coordenadas lat="43.298793" lon="-5.882900">
+                <altura>134.080</altura>
+            </coordenadas>
+            <coordenadas lat="43.298020" lon="-5.882750">
+                <altura>135.180</altura>
+            </coordenadas>
+            <coordenadas lat="43.292699" lon="-5.881183">
+                <altura>138.163</altura>
+            </coordenadas>
+            <coordenadas lat="43.289673" lon="-5.881226">
+                <altura>142.844</altura>
+            </coordenadas>
+            <coordenadas lat="43.287935" lon="-5.880475">
+                <altura>140.418</altura>
+            </coordenadas>
+            <coordenadas lat="43.285918" lon="-5.880947">
+                <altura>145.008</altura>
+            </coordenadas>
+            <coordenadas lat="43.285360" lon="-5.880690">
+                <altura>146.870</altura>
+            </coordenadas>
+            <coordenadas lat="43.285060" lon="-5.880325">
+                <altura>145.872</altura>
+            </coordenadas>
+            <coordenadas lat="43.282378" lon="-5.875218">
+                <altura>145.228</altura>
+            </coordenadas>
+            <coordenadas lat="43.281777" lon="-5.873630">
+                <altura>148.480</altura>
+            </coordenadas>
+            <coordenadas lat="43.281777" lon="-5.872622">
+                <altura>150.380</altura>
+            </coordenadas>
+            <coordenadas lat="43.281927" lon="-5.872107">
+                <altura>151.789</altura>
+            </coordenadas>
+            <coordenadas lat="43.283794" lon="-5.868802">
+                <altura>160.029</altura>
+            </coordenadas>
+            <coordenadas lat="43.284009" lon="-5.867515">
+                <altura>159.389</altura>
+            </coordenadas>
+            <coordenadas lat="43.283579" lon="-5.864575">
+                <altura>168.418</altura>
+            </coordenadas>
+            <coordenadas lat="43.283215" lon="-5.863996">
+                <altura>169.498</altura>
+            </coordenadas>
+            <coordenadas lat="43.282249" lon="-5.863008">
+                <altura>184.317</altura>
+            </coordenadas>
+            <coordenadas lat="43.281713" lon="-5.861464">
+                <altura>172.308</altura>
+            </coordenadas>
+            <coordenadas lat="43.281498" lon="-5.860047">
+                <altura>175.225</altura>
+            </coordenadas>
+            <coordenadas lat="43.281133" lon="-5.859554">
+                <altura>175.767</altura>
+            </coordenadas>
+            <coordenadas lat="43.280661" lon="-5.859253">
+                <altura>174.793</altura>
+            </coordenadas>
+            <coordenadas lat="43.280425" lon="-5.859296">
+                <altura>173.765</altura>
+            </coordenadas>
+            <coordenadas lat="43.280039" lon="-5.859919">
+                <altura>173.155</altura>
+            </coordenadas>
+            <coordenadas lat="43.278430" lon="-5.861399">
+                <altura>167.144</altura>
+            </coordenadas>
+            <coordenadas lat="43.277357" lon="-5.861914">
+                <altura>175.074</altura>
+            </coordenadas>
+            <coordenadas lat="43.274760" lon="-5.863631">
+                <altura>179.834</altura>
+            </coordenadas>
+            <coordenadas lat="43.273730" lon="-5.864511">
+                <altura>186.198</altura>
+            </coordenadas>
+            <coordenadas lat="43.273258" lon="-5.865626">
+                <altura>190.115</altura>
+            </coordenadas>
+            <coordenadas lat="43.272872" lon="-5.866077">
+                <altura>193.226</altura>
+            </coordenadas>
+            <coordenadas lat="43.272228" lon="-5.866313">
+                <altura>190.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.270769" lon="-5.865884">
+                <altura>192.053</altura>
+            </coordenadas>
+            <coordenadas lat="43.269546" lon="-5.866141">
+                <altura>194.785</altura>
+            </coordenadas>
+            <coordenadas lat="43.268731" lon="-5.865991">
+                <altura>199.591</altura>
+            </coordenadas>
+            <coordenadas lat="43.268495" lon="-5.866098">
+                <altura>202.663</altura>
+            </coordenadas>
+            <coordenadas lat="43.267679" lon="-5.867708">
+                <altura>209.113</altura>
+            </coordenadas>
+            <coordenadas lat="43.266413" lon="-5.869124">
+                <altura>213.882</altura>
+            </coordenadas>
+            <coordenadas lat="43.264976" lon="-5.869124">
+                <altura>219.962</altura>
+            </coordenadas>
+            <coordenadas lat="43.263516" lon="-5.868695">
+                <altura>220.052</altura>
+            </coordenadas>
+            <coordenadas lat="43.262722" lon="-5.869317">
+                <altura>230.212</altura>
+            </coordenadas>
+            <coordenadas lat="43.261650" lon="-5.869124">
+                <altura>234.632</altura>
+            </coordenadas>
+            <coordenadas lat="43.260663" lon="-5.869424">
+                <altura>241.705</altura>
+            </coordenadas>
+            <coordenadas lat="43.259976" lon="-5.869811">
+                <altura>248.808</altura>
+            </coordenadas>
+            <coordenadas lat="43.258860" lon="-5.869553">
+                <altura>244.925</altura>
+            </coordenadas>
+            <coordenadas lat="43.256671" lon="-5.870755">
+                <altura>248.527</altura>
+            </coordenadas>
+            <coordenadas lat="43.255985" lon="-5.870733">
+                <altura>254.133</altura>
+            </coordenadas>
+            <coordenadas lat="43.254719" lon="-5.870326">
+                <altura>252.115</altura>
+            </coordenadas>
+            <coordenadas lat="43.252358" lon="-5.872064">
+                <altura>251.355</altura>
+            </coordenadas>
+            <coordenadas lat="43.251393" lon="-5.872450">
+                <altura>254.364</altura>
+            </coordenadas>
+            <coordenadas lat="43.250170" lon="-5.872664">
+                <altura>259.464</altura>
+            </coordenadas>
+            <coordenadas lat="43.248904" lon="-5.872493">
+                <altura>266.664</altura>
+            </coordenadas>
+            <coordenadas lat="43.248174" lon="-5.871849">
+                <altura>272.688</altura>
+            </coordenadas>
+            <coordenadas lat="43.247187" lon="-5.871356">
+                <altura>280.724</altura>
+            </coordenadas>
+            <coordenadas lat="43.246286" lon="-5.871656">
+                <altura>287.726</altura>
+            </coordenadas>
+            <coordenadas lat="43.245213" lon="-5.871549">
+                <altura>295.108</altura>
+            </coordenadas>
+            <coordenadas lat="43.244505" lon="-5.872386">
+                <altura>303.912</altura>
+            </coordenadas>
+            <coordenadas lat="43.243711" lon="-5.872364">
+                <altura>308.494</altura>
+            </coordenadas>
+            <coordenadas lat="43.242531" lon="-5.873373">
+                <altura>320.890</altura>
+            </coordenadas>
+            <coordenadas lat="43.242102" lon="-5.874553">
+                <altura>326.922</altura>
+            </coordenadas>
+            <coordenadas lat="43.241479" lon="-5.875025">
+                <altura>326.122</altura>
+            </coordenadas>
+            <coordenadas lat="43.240407" lon="-5.875218">
+                <altura>318.011</altura>
+            </coordenadas>
+            <coordenadas lat="43.239892" lon="-5.875776">
+                <altura>319.061</altura>
+            </coordenadas>
+            <coordenadas lat="43.239033" lon="-5.876184">
+                <altura>311.831</altura>
+            </coordenadas>
+            <coordenadas lat="43.238518" lon="-5.876913">
+                <altura>310.845</altura>
+            </coordenadas>
+            <coordenadas lat="43.237832" lon="-5.877535">
+                <altura>306.847</altura>
+            </coordenadas>
+            <coordenadas lat="43.237488" lon="-5.877728">
+                <altura>303.011</altura>
+            </coordenadas>
+            <coordenadas lat="43.236866" lon="-5.877814">
+                <altura>302.008</altura>
+            </coordenadas>
+            <coordenadas lat="43.235772" lon="-5.877621">
+                <altura>300.118</altura>
+            </coordenadas>
+            <coordenadas lat="43.233261" lon="-5.879188">
+                <altura>298.560</altura>
+            </coordenadas>
+            <coordenadas lat="43.232660" lon="-5.880153">
+                <altura>304.546</altura>
+            </coordenadas>
+            <coordenadas lat="43.231909" lon="-5.880582">
+                <altura>309.358</altura>
+            </coordenadas>
+            <coordenadas lat="43.231244" lon="-5.881312">
+                <altura>310.198</altura>
+            </coordenadas>
+            <coordenadas lat="43.230729" lon="-5.882127">
+                <altura>314.117</altura>
+            </coordenadas>
+            <coordenadas lat="43.230622" lon="-5.882986">
+                <altura>305.837</altura>
+            </coordenadas>
+            <coordenadas lat="43.230793" lon="-5.883780">
+                <altura>311.747</altura>
+            </coordenadas>
+            <coordenadas lat="43.231201" lon="-5.884295">
+                <altura>315.591</altura>
+            </coordenadas>
+            <coordenadas lat="43.231266" lon="-5.884874">
+                <altura>318.981</altura>
+            </coordenadas>
+            <coordenadas lat="43.232210" lon="-5.885582">
+                <altura>321.919</altura>
+            </coordenadas>
+            <coordenadas lat="43.232682" lon="-5.886633">
+                <altura>327.408</altura>
+            </coordenadas>
+            <coordenadas lat="43.232532" lon="-5.887642">
+                <altura>331.313</altura>
+            </coordenadas>
+            <coordenadas lat="43.232660" lon="-5.888093">
+                <altura>333.715</altura>
+            </coordenadas>
+            <coordenadas lat="43.233411" lon="-5.889294">
+                <altura>343.621</altura>
+            </coordenadas>
+            <coordenadas lat="43.233712" lon="-5.891311">
+                <altura>351.083</altura>
+            </coordenadas>
+            <coordenadas lat="43.234162" lon="-5.891697">
+                <altura>358.383</altura>
+            </coordenadas>
+            <coordenadas lat="43.235171" lon="-5.893929">
+                <altura>369.512</altura>
+            </coordenadas>
+            <coordenadas lat="43.235536" lon="-5.894101">
+                <altura>376.162</altura>
+            </coordenadas>
+            <coordenadas lat="43.235793" lon="-5.894616">
+                <altura>378.832</altura>
+            </coordenadas>
+            <coordenadas lat="43.236394" lon="-5.895152">
+                <altura>386.649</altura>
+            </coordenadas>
+            <coordenadas lat="43.237016" lon="-5.897255">
+                <altura>401.502</altura>
+            </coordenadas>
+            <coordenadas lat="43.237317" lon="-5.897470">
+                <altura>404.622</altura>
+            </coordenadas>
+            <coordenadas lat="43.238111" lon="-5.897083">
+                <altura>414.908</altura>
+            </coordenadas>
+            <coordenadas lat="43.239269" lon="-5.897427">
+                <altura>425.278</altura>
+            </coordenadas>
+            <coordenadas lat="43.240085" lon="-5.897298">
+                <altura>433.350</altura>
+            </coordenadas>
+            <coordenadas lat="43.240407" lon="-5.897427">
+                <altura>434.946</altura>
+            </coordenadas>
+            <coordenadas lat="43.240364" lon="-5.897770">
+                <altura>436.718</altura>
+            </coordenadas>
+            <coordenadas lat="43.239763" lon="-5.898499">
+                <altura>444.778</altura>
+            </coordenadas>
+            <coordenadas lat="43.239012" lon="-5.898993">
+                <altura>451.397</altura>
+            </coordenadas>
+            <coordenadas lat="43.239141" lon="-5.900066">
+                <altura>458.557</altura>
+            </coordenadas>
+            <coordenadas lat="43.239655" lon="-5.900452">
+                <altura>468.527</altura>
+            </coordenadas>
+            <coordenadas lat="43.239763" lon="-5.900817">
+                <altura>468.535</altura>
+            </coordenadas>
+            <coordenadas lat="43.240213" lon="-5.901160">
+                <altura>475.286</altura>
+            </coordenadas>
+            <coordenadas lat="43.240213" lon="-5.901697">
+                <altura>478.614</altura>
+            </coordenadas>
+            <coordenadas lat="43.240600" lon="-5.901847">
+                <altura>483.308</altura>
+            </coordenadas>
+            <coordenadas lat="43.241050" lon="-5.902255">
+                <altura>488.767</altura>
+            </coordenadas>
+            <coordenadas lat="43.242295" lon="-5.902641">
+                <altura>504.599</altura>
+            </coordenadas>
+            <coordenadas lat="43.242509" lon="-5.903113">
+                <altura>503.225</altura>
+            </coordenadas>
+            <coordenadas lat="43.243582" lon="-5.903757">
+                <altura>518.767</altura>
+            </coordenadas>
+            <coordenadas lat="43.243797" lon="-5.904293">
+                <altura>521.767</altura>
+            </coordenadas>
+            <coordenadas lat="43.243539" lon="-5.904787">
+                <altura>524.126</altura>
+            </coordenadas>
+            <coordenadas lat="43.243647" lon="-5.904830">
+                <altura>530.046</altura>
+            </coordenadas>
+            <coordenadas lat="43.243990" lon="-5.904465">
+                <altura>529.936</altura>
+            </coordenadas>
+            <coordenadas lat="43.244162" lon="-5.903778">
+                <altura>535.543</altura>
+            </coordenadas>
+            <coordenadas lat="43.243496" lon="-5.903285">
+                <altura>539.864</altura>
+            </coordenadas>
+            <coordenadas lat="43.242917" lon="-5.902319">
+                <altura>546.910</altura>
+            </coordenadas>
+            <coordenadas lat="43.242724" lon="-5.900688">
+                <altura>563.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.242252" lon="-5.899830">
+                <altura>570.778</altura>
+            </coordenadas>
+            <coordenadas lat="43.242531" lon="-5.899508">
+                <altura>572.670</altura>
+            </coordenadas>
+            <coordenadas lat="43.243368" lon="-5.899487">
+                <altura>583.136</altura>
+            </coordenadas>
+            <coordenadas lat="43.244076" lon="-5.899014">
+                <altura>590.258</altura>
+            </coordenadas>
+            <coordenadas lat="43.244140" lon="-5.899186">
+                <altura>595.788</altura>
+            </coordenadas>
+            <coordenadas lat="43.243947" lon="-5.899830">
+                <altura>599.197</altura>
+            </coordenadas>
+            <coordenadas lat="43.244162" lon="-5.900946">
+                <altura>607.787</altura>
+            </coordenadas>
+            <coordenadas lat="43.245707" lon="-5.901911">
+                <altura>622.227</altura>
+            </coordenadas>
+            <coordenadas lat="43.245964" lon="-5.902705">
+                <altura>623.939</altura>
+            </coordenadas>
+            <coordenadas lat="43.246543" lon="-5.903542">
+                <altura>631.401</altura>
+            </coordenadas>
+            <coordenadas lat="43.247316" lon="-5.903542">
+                <altura>639.321</altura>
+            </coordenadas>
+            <coordenadas lat="43.247423" lon="-5.903692">
+                <altura>640.808</altura>
+            </coordenadas>
+            <coordenadas lat="43.247402" lon="-5.904293">
+                <altura>644.767</altura>
+            </coordenadas>
+            <coordenadas lat="43.247187" lon="-5.904872">
+                <altura>645.439</altura>
+            </coordenadas>
+            <coordenadas lat="43.247595" lon="-5.905988">
+                <altura>656.345</altura>
+            </coordenadas>
+            <coordenadas lat="43.247874" lon="-5.906353">
+                <altura>661.247</altura>
+            </coordenadas>
+            <coordenadas lat="43.247981" lon="-5.906847">
+                <altura>663.977</altura>
+            </coordenadas>
+            <coordenadas lat="43.247874" lon="-5.907233">
+                <altura>666.866</altura>
+            </coordenadas>
+            <coordenadas lat="43.247187" lon="-5.907812">
+                <altura>676.256</altura>
+            </coordenadas>
+            <coordenadas lat="43.246436" lon="-5.907791">
+                <altura>680.386</altura>
+            </coordenadas>
+            <coordenadas lat="43.246007" lon="-5.908005">
+                <altura>682.971</altura>
+            </coordenadas>
+            <coordenadas lat="43.245127" lon="-5.909228">
+                <altura>686.941</altura>
+            </coordenadas>
+            <coordenadas lat="43.244612" lon="-5.909615">
+                <altura>688.115</altura>
+            </coordenadas>
+            <coordenadas lat="43.243475" lon="-5.911331">
+                <altura>685.108</altura>
+            </coordenadas>
+            <coordenadas lat="43.243818" lon="-5.912254">
+                <altura>689.581</altura>
+            </coordenadas>
+            <coordenadas lat="43.243926" lon="-5.913262">
+                <altura>691.953</altura>
+            </coordenadas>
+            <coordenadas lat="43.243024" lon="-5.915022">
+                <altura>696.019</altura>
+            </coordenadas>
+            <coordenadas lat="43.242831" lon="-5.916309">
+                <altura>697.481</altura>
+            </coordenadas>
+            <coordenadas lat="43.242874" lon="-5.917253">
+                <altura>698.181</altura>
+            </coordenadas>
+            <coordenadas lat="43.243132" lon="-5.917683">
+                <altura>699.380</altura>
+            </coordenadas>
+            <coordenadas lat="43.243046" lon="-5.918262">
+                <altura>700.220</altura>
+            </coordenadas>
+            <coordenadas lat="43.243303" lon="-5.918713">
+                <altura>702.590</altura>
+            </coordenadas>
+            <coordenadas lat="43.243282" lon="-5.919914">
+                <altura>711.352</altura>
+            </coordenadas>
+            <coordenadas lat="43.242960" lon="-5.920515">
+                <altura>719.653</altura>
+            </coordenadas>
+            <coordenadas lat="43.242939" lon="-5.921438">
+                <altura>730.708</altura>
+            </coordenadas>
+            <coordenadas lat="43.243411" lon="-5.923476">
+                <altura>756.808</altura>
+            </coordenadas>
+            <coordenadas lat="43.243732" lon="-5.924034">
+                <altura>760.899</altura>
+            </coordenadas>
+            <coordenadas lat="43.243883" lon="-5.925450">
+                <altura>777.441</altura>
+            </coordenadas>
+            <coordenadas lat="43.243690" lon="-5.925686">
+                <altura>781.947</altura>
+            </coordenadas>
+            <coordenadas lat="43.242745" lon="-5.925579">
+                <altura>793.199</altura>
+            </coordenadas>
+            <coordenadas lat="43.242509" lon="-5.925729">
+                <altura>795.849</altura>
+            </coordenadas>
+            <coordenadas lat="43.242102" lon="-5.926609">
+                <altura>808.368</altura>
+            </coordenadas>
+            <coordenadas lat="43.242295" lon="-5.927446">
+                <altura>820.668</altura>
+            </coordenadas>
+            <coordenadas lat="43.241737" lon="-5.927639">
+                <altura>836.028</altura>
+            </coordenadas>
+            <coordenadas lat="43.241951" lon="-5.927918">
+                <altura>840.856</altura>
+            </coordenadas>
+            <coordenadas lat="43.241887" lon="-5.928390">
+                <altura>850.059</altura>
+            </coordenadas>
+            <coordenadas lat="43.241565" lon="-5.928218">
+                <altura>855.014</altura>
+            </coordenadas>
+            <coordenadas lat="43.241243" lon="-5.928390">
+                <altura>863.208</altura>
+            </coordenadas>
+            <coordenadas lat="43.240900" lon="-5.928304">
+                <altura>863.799</altura>
+            </coordenadas>
+            <coordenadas lat="43.240728" lon="-5.928948">
+                <altura>876.181</altura>
+            </coordenadas>
+            <coordenadas lat="43.239484" lon="-5.928111">
+                <altura>891.137</altura>
+            </coordenadas>
+            <coordenadas lat="43.238389" lon="-5.927939">
+                <altura>904.699</altura>
+            </coordenadas>
+            <coordenadas lat="43.237531" lon="-5.928283">
+                <altura>918.169</altura>
+            </coordenadas>
+            <coordenadas lat="43.237166" lon="-5.928283">
+                <altura>922.698</altura>
+            </coordenadas>
+            <coordenadas lat="43.236029" lon="-5.927875">
+                <altura>939.998</altura>
+            </coordenadas>
+            <coordenadas lat="43.235192" lon="-5.927832">
+                <altura>949.958</altura>
+            </coordenadas>
+            <coordenadas lat="43.234463" lon="-5.928218">
+                <altura>962.219</altura>
+            </coordenadas>
+            <coordenadas lat="43.233840" lon="-5.927939">
+                <altura>970.709</altura>
+            </coordenadas>
+            <coordenadas lat="43.233068" lon="-5.927210">
+                <altura>979.119</altura>
+            </coordenadas>
+            <coordenadas lat="43.231201" lon="-5.925922">
+                <altura>1006.908</altura>
+            </coordenadas>
+            <coordenadas lat="43.232231" lon="-5.927918">
+                <altura>1033.395</altura>
+            </coordenadas>
+            <coordenadas lat="43.232553" lon="-5.928283">
+                <altura>1037.857</altura>
+            </coordenadas>
+            <coordenadas lat="43.233476" lon="-5.930300">
+                <altura>1061.083</altura>
+            </coordenadas>
+            <coordenadas lat="43.234355" lon="-5.931416">
+                <altura>1074.615</altura>
+            </coordenadas>
+            <coordenadas lat="43.235171" lon="-5.933583">
+                <altura>1100.695</altura>
+            </coordenadas>
+            <coordenadas lat="43.235643" lon="-5.934463">
+                <altura>1111.084</altura>
+            </coordenadas>
+            <coordenadas lat="43.236737" lon="-5.935385">
+                <altura>1130.594</altura>
+            </coordenadas>
+            <coordenadas lat="43.237166" lon="-5.935514">
+                <altura>1135.264</altura>
+            </coordenadas>
+            <coordenadas lat="43.237553" lon="-5.935450">
+                <altura>1143.486</altura>
+            </coordenadas>
+            <coordenadas lat="43.236887" lon="-5.936265">
+                <altura>1156.960</altura>
+            </coordenadas>
+            <coordenadas lat="43.236158" lon="-5.936608">
+                <altura>1168.226</altura>
+            </coordenadas>
+            <coordenadas lat="43.235343" lon="-5.936415">
+                <altura>1177.608</altura>
+            </coordenadas>
+            <coordenadas lat="43.234956" lon="-5.936458">
+                <altura>1186.432</altura>
+            </coordenadas>
+            <coordenadas lat="43.234634" lon="-5.936244">
+                <altura>1193.134</altura>
+            </coordenadas>
+            <coordenadas lat="43.234549" lon="-5.936351">
+                <altura>1199.950</altura>
+            </coordenadas>
+            <coordenadas lat="43.235815" lon="-5.938818">
+                <altura>1234.652</altura>
+            </coordenadas>
+            <coordenadas lat="43.236179" lon="-5.939355">
+                <altura>1242.692</altura>
+            </coordenadas>
+            <coordenadas lat="43.236694" lon="-5.939612">
+                <altura>1250.781</altura>
+            </coordenadas>
+            <coordenadas lat="43.236673" lon="-5.939848">
+                <altura>1257.271</altura>
+            </coordenadas>
+            <coordenadas lat="43.236330" lon="-5.939977">
+                <altura>1263.771</altura>
+            </coordenadas>
+            <coordenadas lat="43.235772" lon="-5.939891">
+                <altura>1273.984</altura>
+            </coordenadas>
+            <coordenadas lat="43.233819" lon="-5.938840">
+                <altura>1324.207</altura>
+            </coordenadas>
+            <coordenadas lat="43.233197" lon="-5.937960">
+                <altura>1336.917</altura>
+            </coordenadas>
+            <coordenadas lat="43.232274" lon="-5.937252">
+                <altura>1364.608</altura>
+            </coordenadas>
+            <coordenadas lat="43.231781" lon="-5.936480">
+                <altura>1376.492</altura>
+            </coordenadas>
+            <coordenadas lat="43.231394" lon="-5.936415">
+                <altura>1386.454</altura>
+            </coordenadas>
+            <coordenadas lat="43.231587" lon="-5.937123">
+                <altura>1396.570</altura>
+            </coordenadas>
+            <coordenadas lat="43.230836" lon="-5.936394">
+                <altura>1410.042</altura>
+            </coordenadas>
+            <coordenadas lat="43.228927" lon="-5.935342">
+                <altura>1441.872</altura>
+            </coordenadas>
+            <coordenadas lat="43.228648" lon="-5.934913">
+                <altura>1442.031</altura>
+            </coordenadas>
+            <coordenadas lat="43.228562" lon="-5.935020">
+                <altura>1446.251</altura>
+            </coordenadas>
+            <coordenadas lat="43.228798" lon="-5.935493">
+                <altura>1452.871</altura>
+            </coordenadas>
+            <coordenadas lat="43.229656" lon="-5.936844">
+                <altura>1472.588</altura>
+            </coordenadas>
+            <coordenadas lat="43.228734" lon="-5.936201">
+                <altura>1491.724</altura>
+            </coordenadas>
+            <coordenadas lat="43.227940" lon="-5.936007">
+                <altura>1506.926</altura>
+            </coordenadas>
+            <coordenadas lat="43.227897" lon="-5.936158">
+                <altura>1514.108</altura>
+            </coordenadas>
+            <coordenadas lat="43.228626" lon="-5.936737">
+                <altura>1515.982</altura>
+            </coordenadas>
+            <coordenadas lat="43.228626" lon="-5.937359">
+                <altura>1519.594</altura>
+            </coordenadas>
+            <coordenadas lat="43.228390" lon="-5.937166">
+                <altura>1524.340</altura>
+            </coordenadas>
+            <coordenadas lat="43.228068" lon="-5.937274">
+                <altura>1532.242</altura>
+            </coordenadas>
+            <coordenadas lat="43.227811" lon="-5.936716">
+                <altura>1539.222</altura>
+            </coordenadas>
+            <coordenadas lat="43.227038" lon="-5.936372">
+                <altura>1554.121</altura>
+            </coordenadas>
+            <coordenadas lat="43.226438" lon="-5.936673">
+                <altura>1563.061</altura>
+            </coordenadas>
+            <coordenadas lat="43.225579" lon="-5.936608">
+                <altura>1565.131</altura>
+            </coordenadas>
+            <coordenadas lat="43.225429" lon="-5.937016">
+                <altura>1571.172</altura>
+            </coordenadas>
+            <coordenadas lat="43.225687" lon="-5.938025">
+                <altura>1571.913</altura>
+            </coordenadas>
+            <coordenadas lat="43.225129" lon="-5.938754">
+                <altura>1573.514</altura>
+            </coordenadas>
+            <coordenadas lat="43.225021" lon="-5.940106">
+                <altura>1570.408</altura>
+            </coordenadas>
+            <coordenadas lat="43.223755" lon="-5.941050">
+                <altura>1562.371</altura>
+            </coordenadas>
+            <coordenadas lat="43.223069" lon="-5.941286">
+                <altura>1557.753</altura>
+            </coordenadas>
+            <coordenadas lat="43.222468" lon="-5.941715">
+                <altura>1553.599</altura>
+            </coordenadas>
+            <coordenadas lat="43.221374" lon="-5.941844">
+                <altura>1554.881</altura>
+            </coordenadas>
+            <coordenadas lat="43.221052" lon="-5.942080">
+                <altura>1552.621</altura>
+            </coordenadas>
+        </coordenadasRuta>
+        <Hitos>
+            <Hito nombre="Urb. La Llera">
+                <Descripcion>urbanizacion asturiana</Descripcion>
+                <Localizacion pais="Espana">
+                    <Ciudad>La LLera</Ciudad>
+                    <direccion>Asturias</direccion>
+                    <coordenadas lat="43.283794" lon="-5.868802">
+                        <altura>160.029</altura>
+                    </coordenadas>
+                </Localizacion>
+                <distancia-hito-anterior unidad="kms" tiempo="0.3">0</distancia-hito-anterior>
+                <Galeria-img><img type="jpg">multimedia/Ruta3-hito1.JPG</img></Galeria-img>
+                <Galeria-video><video type="enlace">multimedia/asturias.mp4</video></Galeria-video>
+            </Hito>
+            <Hito nombre="Alde Porcio">
+                <Descripcion>iglesia muy guapa</Descripcion>
+                <Localizacion pais="Espana">
+                    <Ciudad>Porcio</Ciudad>
+                    <direccion>Asturias</direccion>
+                    <coordenadas lat="43.243797" lon="-5.904293">
+                        <altura>521.767</altura>
+                    </coordenadas>
+                </Localizacion>
+                <distancia-hito-anterior unidad="kms" tiempo="0.3">20</distancia-hito-anterior>
+                <Galeria-img><img type="jpg"> multimedia/Ruta3-hito2.JPG</img></Galeria-img>
+                <Galeria-video><video type="enlace">multimedia/asturias.mp4</video></Galeria-video>
+            </Hito>
+            <Hito nombre="Alto de L'Angliru">
+                <Descripcion>descripcion</Descripcion>
+                <Localizacion pais="Espana">
+                    <Ciudad>Angliru</Ciudad>
+                    <direccion>Leon</direccion>
+                    <coordenadas lat="43.221052" lon="-5.942080">
+                        <altura>1552.621</altura>
+                    </coordenadas>
+                </Localizacion>
+                <distancia-hito-anterior unidad="kms" tiempo="4"> 78</distancia-hito-anterior>
+                <Galeria-img><img type="jpg">multimedia/Ruta2-hito3.JPG</img></Galeria-img>
+                <Galeria-video><video type="mpp4">multimedia/asturias.mp4</video></Galeria-video>
+            </Hito>
+        </Hitos>
+    </RutaTuristica>
+
+
+</rutas>
